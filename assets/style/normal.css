@@ -1,101 +1,90 @@
 body {
   margin: 0;
-  background-color: #f7f4ec;
-  color: #3f4f3d;
-  font-family: Arial, sans-serif;
+  background-color: #f5f6dc;
+  color: #283327;
+  font-family: Georgia, serif;
 }
 
 header {
-  min-height: 65vh;
-  background-image: url("../header.jpg");
-  background-size: cover;
-  background-position: center;
+  padding: 2rem 5%;
+}
 
+nav {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-
-  text-align: center;
-  padding: 2rem;
+  gap: 2rem;
 }
 
-header h1 {
-  margin: 0;
-  font-size: 4rem;
-  color: #40513d;
-}
-
-header p {
-  margin-top: 0.5rem;
-  font-size: 1.2rem;
-  color: #5d6c59;
-}
-
-main {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
-
-  max-width: 70rem;
-  margin: 0 auto;
-  padding: 3rem 1.5rem;
-}
-
-section {
-  background-color: rgba(255, 252, 245, 0.92);
-
-  border: 1px solid #d8dfd1;
-  border-radius: 1.5rem;
-
-  padding: 2rem;
-}
-
-section h2 {
-  margin-top: 0;
-  color: #465a43;
-}
-
-section p {
-  line-height: 1.6;
-  color: #606d5d;
-}
-
-section a {
-  display: inline-block;
-
-  margin-top: 1rem;
-  padding: 0.8rem 1.2rem;
-
-  background-color: #dfe7d7;
-  color: #3f523e;
-
-  border-radius: 2rem;
+nav a {
+  color: #283327;
   text-decoration: none;
 }
 
-section a:hover {
-  background-color: #cdd9c5;
+main {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 5rem 5%;
+}
+
+main > section:first-of-type {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 4rem;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+main > section:first-of-type p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  max-width: 35rem;
+}
+
+main > section:last-of-type {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+article img {
+  width: 100%;
+  display: block;
+  border-radius: 1rem;
+}
+
+article a {
+  color: inherit;
+  text-decoration: none;
+}
+
+article h2 {
+  margin-top: 0.8rem;
+}
+
+article p {
+  line-height: 1.5;
 }
 
 footer {
   text-align: center;
   padding: 2rem;
-
-  background-color: #eef0e8;
-  color: #677063;
 }
 
 footer a {
-  color: #465a43;
+  color: #283327;
 }
 
 @media (min-width: 48rem) {
-  main {
+  main > section:first-of-type {
     grid-template-columns: 1fr 1fr;
   }
 
-  header h1 {
-    font-size: 5rem;
+  main > section:last-of-type {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
