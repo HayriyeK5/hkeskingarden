@@ -9,6 +9,7 @@
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
+  background-image: url(tree.jpg);
   color: CanvasText;
   color-scheme: light dark;
 }
