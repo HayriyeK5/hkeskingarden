@@ -1,134 +1,82 @@
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Parisienne&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Parisienne&display=swap");
 
 body {
   margin: 0;
-  background-color: #dce8d3;
-  color: #344233;
-  font-family: "Cormorant Garamond", serif;
+  background-color: #dbe7d3;
+  color: #344333;
+  font-family: "Libre Baskerville", serif;
 }
-
-
 
 header {
   text-align: center;
-  padding: 3rem 5% 2rem;
+  padding: 3rem 1rem 2rem;
 }
 
 header h1 {
   margin: 0;
   font-family: "Parisienne", cursive;
-  font-size: 5rem;
-  font-weight: 400;
-  color: #36513a;
+  font-size: 4rem;
+  font-weight: normal;
 }
 
 header p {
-  margin-top: 0.5rem;
-  font-size: 1.4rem;
-  letter-spacing: 0.04rem;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 1rem;
 }
 
-nav {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 2rem;
-  margin-top: 2rem;
+header img {
+  width: 80%;
+  max-width: 20rem;
+  height: auto;
 }
-
-nav a {
-  color: #344233;
-  text-decoration: none;
-  font-size: 1.1rem;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-
 
 main {
-  max-width: 75rem;
+  max-width: 60rem;
   margin: 0 auto;
-  padding: 2rem 5% 5rem;
+  padding: 2rem 1rem;
 }
 
-main > section:first-of-type {
-  max-width: 40rem;
-  margin: 0 auto 4rem;
-  text-align: center;
+section {
+  margin-bottom: 3rem;
 }
 
-main > section:first-of-type h1 {
-  display: none;
-}
-
-main > section:first-of-type p {
-  font-size: 1.4rem;
-  line-height: 1.6;
-}
-
-/* CATEGORIEËN */
-
-main > section:last-of-type {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
-}
-
-article {
-  background-color: rgba(249, 247, 238, 0.7);
-  padding: 1.2rem;
-  border-radius: 2rem 2rem 0.5rem 2rem;
-}
-
-article:nth-of-type(even) {
-  border-radius: 0.5rem 2rem 2rem 2rem;
-}
-
-article img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  display: block;
-  border-radius: 1.2rem;
-}
-
-article a {
-  color: inherit;
+section a {
+  color: #344333;
   text-decoration: none;
 }
 
-article h2 {
-  margin-bottom: 0.3rem;
-  font-size: 1.8rem;
-  font-weight: 600;
+section img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 1rem;
 }
 
-article p {
-  margin-top: 0;
-  line-height: 1.5;
-  font-size: 1.1rem;
+section h2 {
+  margin-top: 0.7rem;
+  text-align: center;
+  font-size: 1.4rem;
 }
 
 footer {
   text-align: center;
-  padding: 2rem;
-  border-top: 1px solid rgba(52, 66, 51, 0.2);
+  padding: 2rem 1rem;
 }
 
 footer a {
-  color: #344233;
+  color: #344333;
 }
 
-
 @media (min-width: 48rem) {
-  main > section:last-of-type {
-    grid-template-columns: repeat(2, 1fr);
-  }
 
   header h1 {
-    font-size: 7rem;
+    font-size: 5rem;
   }
+
+  main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
+
 }
