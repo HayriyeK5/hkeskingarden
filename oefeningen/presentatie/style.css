@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.remark-slide-content {
+  background-color: #eef3e8;
+  color: #2f3b2f;
+  padding: 60px;
+}
+
+h1 {
+  color: #405d3f;
+}
+
+h3 {
+  color: #6f8268;
+  font-weight: normal;
+}
