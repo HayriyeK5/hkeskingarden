@@ -19,18 +19,18 @@ De inhoud hoeft ook niet op datum te staan. Onderwerpen kunnen met elkaar verbon
 Daarna hebben we verschillende persoonlijke websites bekeken en beoordeeld op punten zoals fluid/adaptief, interactief, toegankelijkheid, expressief en verrassend.
 
 **silly.possiblyaxolotl.com**
--Fluid/adaptief: de website heeft veel onderdelen en links, maar blijft duidelijk opgebouwd.
--Interactief/dynamisch: er zijn veel links en onderdelen waar je op kunt klikken.
--Toegankelijkheid: de tekst is duidelijk, maar door de drukke stijl kan het soms wat onrustig zijn.
--Expressief: heel sterk. De website heeft duidelijk een eigen stijl en persoonlijkheid.
--Leuk/verrassend: ja, omdat het heel anders voelt dan een normale website.
+1-Fluid/adaptief: de website heeft veel onderdelen en links, maar blijft duidelijk opgebouwd.
+2-Interactief/dynamisch: er zijn veel links en onderdelen waar je op kunt klikken.
+3-Toegankelijkheid: de tekst is duidelijk, maar door de drukke stijl kan het soms wat onrustig zijn.
+4-Expressief: heel sterk. De website heeft duidelijk een eigen stijl en persoonlijkheid.
+5-Leuk/verrassend: ja, omdat het heel anders voelt dan een normale website.
 
 **bonics.org/aboutme**
--Fluid/adaptief: de pagina bestaat uit veel losse visuele elementen.
--Interactief/dynamisch: er zijn verschillende buttons en onderdelen om te ontdekken.
--Toegankelijkheid: door de vele afbeeldingen is niet alles meteen even duidelijk.
--Expressief: heel persoonlijk en creatief vormgegeven.
--Leuk/verrassend: ja, omdat je steeds nieuwe kleine dingen tegenkomt.
+1-Fluid/adaptief: de pagina bestaat uit veel losse visuele elementen.
+2-Interactief/dynamisch: er zijn verschillende buttons en onderdelen om te ontdekken.
+3-Toegankelijkheid: door de vele afbeeldingen is niet alles meteen even duidelijk.
+4-Expressief: heel persoonlijk en creatief vormgegeven.
+5-Leuk/verrassend: ja, omdat je steeds nieuwe kleine dingen tegenkomt.
 
 
 Checkout
@@ -103,7 +103,7 @@ Van mijn Crazy 8 wil ik vooral het idee met vloeiende lijnen en verschillende ri
 
 Vandaag heb ik verder nagedacht over het concept van mijn Digital Garden. Mijn eerste idee was om te werken met een groot beeld van een boom, waarin ik boeken wilde plaatsen. Ik dacht eraan om de boeken klikbaar te maken en de pagina’s als het ware om te slaan, zodat de bezoeker per boek iets kon lezen of ontdekken. Op die manier wilde ik verschillende onderdelen van mijn Garden laten zien.
 
-Na feedback van Sanne ben ik opnieuw naar mijn concept gaan kijken. Zij zei dat de combinatie van een boom en boeken misschien te veel verschillende elementen tegelijk bevatte en daardoor wat druk of onduidelijk kon worden. Daardoor ben ik opnieuw gaan nadenken over wat ik precies wilde laten zien en welke vorm daar het beste bij past.
+Na feedback van Sanne ben ik opnieuw naar mijn concept gaan kijken. Hij zei dat de combinatie van een boom en boeken misschien te veel verschillende elementen tegelijk bevatte en daardoor wat druk of onduidelijk kon worden. Daardoor ben ik opnieuw gaan nadenken over wat ik precies wilde laten zien en welke vorm daar het beste bij past.
 
 Daarna heb ik op Pinterest lang gezocht naar beelden die beter bij mijn idee pasten. Ik zocht iets dat te maken heeft met natuur, groei, beweging en ontdekken. Uiteindelijk heb ik een beeld gekozen van bomen met groene spiralen erin. Dit sprak mij aan, omdat de spiralen voor mij passen bij mijn sfeerwoord ´´onderzoekend´´. Ze geven het gevoel van beweging, verschillende richtingen en steeds iets nieuws ontdekken.
 
@@ -129,3 +129,5 @@ Ik liep ook een beetje vast, omdat ik mijn concept niet goed kon uitwerken in HT
 Daarom heb ik besloten om terug te gaan naar een simpelere basis. Ik heb gekozen voor een rustige homepage met een paar duidelijke onderdelen die je kunt aanklikken. Dit is makkelijker om responsive te maken en beter uit te werken met HTML en CSS.
 
 Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar nog steeds ruimte geeft om later mijn eigen stijl, foto's, boeken en andere persoonlijke dingen toe te voegen.
+
+

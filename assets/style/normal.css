@@ -1,82 +1,28 @@
-@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Parisienne&display=swap");
-
 body {
-  margin: 0;
-  background-color: #dbe7d3;
-  color: #344333;
-  font-family: "Libre Baskerville", serif;
+	margin: 0;
+	min-height: 100dvh;
+
+	background-image: url("../lente.png");
+	background-size: cover;
+	background-position: center;
+	padding: 3em;
 }
 
-header {
-  text-align: center;
-  padding: 3rem 1rem 2rem;
+/* bron: Sanne */
+body:has([value="zomer"]:checked) {
+	background-image: url("../zomer.png");
 }
 
-header h1 {
-  margin: 0;
-  font-family: "Parisienne", cursive;
-  font-size: 4rem;
-  font-weight: normal;
+body:has([value="herfst"]:checked) {
+	background-image: url("../herfst.png");
 }
 
-header p {
-  margin: 0.5rem 0 1.5rem;
-  font-size: 1rem;
-}
-
-header img {
-  width: 80%;
-  max-width: 20rem;
-  height: auto;
+body:has([value="winter"]:checked) {
+	background-image: url("../winter.png");
 }
 
 main {
-  max-width: 60rem;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-section {
-  margin-bottom: 3rem;
-}
-
-section a {
-  color: #344333;
-  text-decoration: none;
-}
-
-section img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 1rem;
-}
-
-section h2 {
-  margin-top: 0.7rem;
-  text-align: center;
-  font-size: 1.4rem;
-}
-
-footer {
-  text-align: center;
-  padding: 2rem 1rem;
-}
-
-footer a {
-  color: #344333;
-}
-
-@media (min-width: 48rem) {
-
-  header h1 {
-    font-size: 5rem;
-  }
-
-  main {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2rem;
-  }
-
+	padding: 1em;
+	background-color: #fff9;
+	border-radius: 3em;
 }
