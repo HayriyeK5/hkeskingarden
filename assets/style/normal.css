@@ -1,3 +1,16 @@
+@font-face {
+	font-family: "ComicRelief";
+	src: url("../type/ComicRelief-Regular.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1 {
+	font-family: "ComicRelief", cursive;
+	font-weight: normal;
+}
+
+
 body {
 	margin: 0;
 	min-height: 100dvh;
