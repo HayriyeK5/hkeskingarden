@@ -16,6 +16,19 @@ body {
 
 	padding: 3em;
 }
+aside {
+	position: fixed;
+	bottom: 1em;
+	left: 1em;
+
+	background-color: pink;
+	padding: 1em;
+	border: 1px solid black;
+}
+
+aside.verstopt {
+	display: none;
+}
 
 
 /* bron: Sanne */
