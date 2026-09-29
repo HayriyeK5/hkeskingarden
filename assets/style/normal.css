@@ -5,14 +5,6 @@
 	font-style: normal;
 }
 
-
-h1 {
-	font-family: "Tangerine", cursive;
-	font-size: 6em;
-	font-weight: normal;
-	color: #b86f82;
-	margin-top: 1em;
-}
 body {
 	margin: 0;
 	min-height: 100dvh;
@@ -20,10 +12,14 @@ body {
 	background-image: url("../lente.png");
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
+
 	padding: 3em;
 }
 
+
 /* bron: Sanne */
+
 body:has([value="zomer"]:checked) {
 	background-image: url("../zomer.png");
 }
@@ -36,21 +32,100 @@ body:has([value="winter"]:checked) {
 	background-image: url("../winter.png");
 }
 
-main {
-	padding: 1em;
+
+form {
 	text-align: center;
+	margin-bottom: 2em;
+}
+
+main {
+	text-align: center;
+	padding: 1em;
 }
 
 
+/* lente */
+
+h1 {
+	font-family: "Tangerine", cursive;
+	font-size: 6em;
+	font-weight: normal;
+
+	color: #8f5f6d;
+
+	display: inline-block;
+	margin: 0 0 0.2em;
+	padding: 0.15em 0.45em;
+
+	background-color: rgba(244, 214, 224, 0.38);
+	border-radius: 0.4em;
+	backdrop-filter: blur(2px);
+}
+
+main p {
+	max-width: 32em;
+	margin: 0 auto;
+
+	font-size: 1.2em;
+	line-height: 1.6;
+
+	padding: 0.8em 1.2em;
+
+	background-color: rgba(244, 214, 224, 0.28);
+	border-radius: 1em;
+	backdrop-filter: blur(2px);
+}
+
+
+/* zomer */
 
 body:has([value="zomer"]:checked) h1 {
 	color: #2f6b46;
+	background-color: rgba(210, 235, 210, 0.38);
 }
+
+body:has([value="zomer"]:checked) main p {
+	background-color: rgba(210, 235, 210, 0.28);
+}
+
+
+/* herfst */
 
 body:has([value="herfst"]:checked) h1 {
 	color: #9a4f2d;
+	background-color: rgba(232, 205, 182, 0.40);
 }
+
+body:has([value="herfst"]:checked) main p {
+	background-color: rgba(232, 205, 182, 0.30);
+}
+
+
+/* winter */
 
 body:has([value="winter"]:checked) h1 {
 	color: #405f73;
+	background-color: rgba(220, 230, 240, 0.40);
+}
+
+body:has([value="winter"]:checked) main p {
+	background-color: rgba(220, 230, 240, 0.30);
+}
+
+
+
+
+@media (max-width: 40em) {
+
+	body {
+		padding: 1.5em;
+	}
+
+	h1 {
+		font-size: 4em;
+	}
+
+	main p {
+		font-size: 1em;
+	}
 }
