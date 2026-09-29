@@ -16,6 +16,25 @@ body {
 
 	padding: 3em;
 }
+
+
+
+section {
+	margin-top: 2em;
+}
+
+section a {
+	color: inherit;
+	text-decoration: none;
+}
+
+section h2 {
+	display: inline-block;
+	padding: 0.7em 1em;
+
+	background-color: rgba(255, 255, 255, 0.45);
+	border-radius: 1em;
+}
 aside {
 	position: fixed;
 	bottom: 1em;
