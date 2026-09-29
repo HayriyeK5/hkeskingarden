@@ -8,10 +8,11 @@
 
 h1 {
 	font-family: "Tangerine", cursive;
-	font-size: 5em;
+	font-size: 6em;
 	font-weight: normal;
+	color: #b86f82;
+	margin-top: 1em;
 }
-
 body {
 	margin: 0;
 	min-height: 100dvh;
@@ -37,6 +38,19 @@ body:has([value="winter"]:checked) {
 
 main {
 	padding: 1em;
-	background-color: #fff9;
-	border-radius: 3em;
+	text-align: center;
+}
+
+
+
+body:has([value="zomer"]:checked) h1 {
+	color: #2f6b46;
+}
+
+body:has([value="herfst"]:checked) h1 {
+	color: #9a4f2d;
+}
+
+body:has([value="winter"]:checked) h1 {
+	color: #405f73;
 }
