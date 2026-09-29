@@ -1,15 +1,16 @@
 @font-face {
-	font-family: "ComicRelief";
-	src: url("../type/ComicRelief-Regular.woff2") format("woff2");
+	font-family: "Tangerine";
+	src: url("../type/Tangerine_Regular.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
 
+
 h1 {
-	font-family: "ComicRelief", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 5em;
 	font-weight: normal;
 }
-
 
 body {
 	margin: 0;
