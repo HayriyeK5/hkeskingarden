@@ -67,7 +67,9 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 
 
+### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README.
 
+Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
 ### 16 september
 
