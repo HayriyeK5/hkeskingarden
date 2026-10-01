@@ -160,4 +160,75 @@ body:has([value="winter"]:checked) main p {
 	main p {
 		font-size: 1em;
 	}
+}   
+
+
+
+
+
+body.boeken {
+	background-image: url("../books.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body.boeken header {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+body.boeken header a {
+	display: block;
+	text-align: left;
+	color: inherit;
+}
+
+body.boeken main {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 2em;
+
+	max-width: 60em;
+	margin: 0 auto;
+}
+
+body.boeken section {
+	text-align: center;
+	padding: 1em;
+}
+
+body.boeken section img {
+	width: 100%;
+	max-width: 12em;
+	height: auto;
+}
+
+body.boeken section h2 {
+	margin-top: 0.5em;
+	margin-bottom: 0;
+
+	background: none;
+	border: none;
+	border-radius: 0;
+	padding: 0;
+
+	font-size: 1.3em;
+}
+
+@media (min-width: 40em) {
+
+	body.boeken main {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+}
+
+@media (min-width: 60em) {
+
+	body.boeken main {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
 }
