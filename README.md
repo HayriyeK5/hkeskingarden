@@ -1,8 +1,30 @@
 # Model
 
 
+## Donderdag 1 oktober
 
+Vandaag heb ik een aantal punten uit de toegankelijkheidstest aangepast. Op de boekenpagina heb ik de alt-teksten duidelijker gemaakt. In plaats van `Boek 1` gebruik ik nu bijvoorbeeld `Boekomslag van Jane Eyre`. Bij mijn album heb ik de foto’s ook beschrijvende alt-teksten gegeven, zodat een screenreader beter kan vertellen wat er op de afbeelding staat.
 
+De boektitels zagen eerst uit als buttons, terwijl ze geen buttons waren. Daarom heb ik de achtergrond, padding en afgeronde hoeken weggehaald. Ook heb ik de links op de homepage aangepast zodat ze minder op buttons lijken en duidelijker als links herkenbaar zijn. Verder heb ik gecontroleerd of elke pagina een duidelijke `h1` heeft, zoals `Onder de Wilg`, `Mijn favoriete boeken` en `Momenten door mijn lens`.
+
+Ik heb ook de boekenpagina en albumpagina verder vormgegeven. De afbeeldingen waren eerst te groot, daarom heb ik ze kleiner gemaakt en in een grid gezet. Op een groot scherm staan nu drie boeken of foto’s naast elkaar en op kleinere schermen passen ze zich aan. Voor mijn album heb ik de foto’s een lichte frame-look gegeven zodat ze meer als een verzameling foto’s voelen.
+
+Ik wil later nog meer foto’s toevoegen aan mijn album. Bij de boeken wil ik hover-states en meer interactie toevoegen. Als je op een boek klikt, wil ik bijvoorbeeld laten zien wat het boek bij mij opriep, wat ik ervan vond of een korte quote die mij is bijgebleven. Zo wil ik de website stap voor stap persoonlijker en interactiever maken.
+## Woensdag 30 september
+
+Vandaag heb ik samen met Seb mijn website getest op toegankelijkheid. We hebben gekeken naar de screenreader, alleen het toetsenbord en de WCAG-checklist. Seb gaf mij feedback dat de alt-teksten van mijn boeken te algemeen waren, bijvoorbeeld `Boek 1`. Ook zagen sommige boektitels eruit als buttons terwijl ze niet klikbaar waren. De links op de homepage leken ook een beetje op buttons. Verder moest ik nog beter controleren of alles met de Tab-toets bereikbaar is en of de focus-states duidelijk zijn.
+
+### Waar staat WCAG en A11y voor?
+
+WCAG staat voor Web Content Accessibility Guidelines. A11y is een korte manier om accessibility te schrijven.
+
+### Wat vind je lastiger: toetsenbord of screenreader?
+
+Ik vind een screenreader lastiger, omdat ik dan meer moet luisteren en onthouden waar ik ben. Ik moet vooral nog oefenen met de shortcuts.
+
+### Met welke beperking rekening houden vind je het meest lastig?
+
+Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar is het zonder beeld toch niet duidelijk. Ik voel me soms een beetje beperkt in mijn ontwerp, maar ik merk dat ik nog steeds mooie dingen kan maken als de basis toegankelijk is.
 
 
 
