@@ -274,18 +274,22 @@ body.album header {
 body.album header a {
 	display: block;
 	text-align: left;
+
 	color: inherit;
 }
 
 body.album header h1 {
 	font-family: "Tangerine", cursive;
-	font-size: 4em;
+	font-size: 4.5em;
 	font-weight: normal;
+
+	color: #8f5f6d;
 
 	margin: 0.3em 0;
 	padding: 0;
 
 	background: none;
+	border: none;
 	border-radius: 0;
 }
 
@@ -294,24 +298,35 @@ body.album main {
 	grid-template-columns: 1fr;
 	gap: 2em;
 
-	max-width: 55em;
+	max-width: 70em;
 	margin: 0 auto;
 }
 
 body.album section {
 	text-align: center;
-	margin: 0;
-	padding: 0;
+
+	background-color: rgba(255, 248, 250, 0.75);
+
+	padding: 1em;
+
+	border: 0.08em solid rgba(150, 110, 120, 0.35);
+	border-radius: 1.2em;
+
+	box-shadow: 0 0.5em 1.2em rgba(90, 70, 70, 0.15);
 }
 
 body.album section img {
-	width: 14em;
+	width: 100%;
 	aspect-ratio: 9 / 16;
 
 	object-fit: cover;
 	display: block;
-	margin: 0 auto;
+
+	border-radius: 0.8em;
+	border: 0.15em solid rgba(255, 255, 255, 0.9);
 }
+
+
 
 
 @media (min-width: 40em) {
@@ -328,6 +343,21 @@ body.album section img {
 
 	body.album main {
 		grid-template-columns: repeat(3, 1fr);
+	}
+
+}
+
+
+
+
+@media (max-width: 40em) {
+
+	body.album {
+		padding: 1.5em;
+	}
+
+	body.album header h1 {
+		font-size: 3.5em;
 	}
 
 }
