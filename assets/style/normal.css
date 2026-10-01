@@ -257,11 +257,38 @@ body.boeken section h2 {
 
 
 
-
 body.album {
 	background-image: url("../album.png");
 	background-size: cover;
 	background-position: center 70%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+}
+
+body.album main {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 2em;
+
+	max-width: 60em;
+	margin: 0 auto;
+}
+
+body.album section {
+	text-align: center;
+}
+
+body.album section img {
+	width: 100%;
+	max-width: 15em;
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	display: block;
+	margin: 0 auto;
+}
+
+@media (min-width: 60em) {
+	body.album main {
+		grid-template-columns: repeat(3, 1fr);
+	}
 }
