@@ -18,23 +18,36 @@ body {
 }
 
 
-
 section {
-	margin-top: 2em;
+	margin-top: 3em;
+	text-align: center;
 }
 
 section a {
-	color: inherit;
-	text-decoration: none;
+	color: #7d5563;
+	text-decoration: underline;
+	text-underline-offset: 0.2em;
 }
 
 section h2 {
-	display: inline-block;
-	padding: 0.7em 1em;
+	margin: 0;
 
-	background-color: rgba(255, 255, 255, 0.45);
-	border-radius: 1em;
+	padding: 0;
+	background: none;
+	border-radius: 0;
+	font-family: "Tangerine", cursive;
+	font-size: 3em;
+	font-weight: normal;
+	font-size: 2em;
 }
+
+
+section a:hover {
+	color: #4f6b45;
+}
+
+
+
 aside {
 	position: fixed;
 	bottom: 1em;
