@@ -305,14 +305,13 @@ body.album section {
 }
 
 body.album section img {
-	width: 12em;
-	height: 12em;
+	width: 14em;
+	aspect-ratio: 9 / 16;
 
 	object-fit: cover;
 	display: block;
 	margin: 0 auto;
 }
-
 
 
 @media (min-width: 40em) {
