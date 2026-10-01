@@ -1,30 +1,69 @@
-# Model
-
-
 ## Donderdag 1 oktober
 
-Vandaag heb ik een aantal punten uit de toegankelijkheidstest aangepast. Op de boekenpagina heb ik de alt-teksten duidelijker gemaakt. In plaats van `Boek 1` gebruik ik nu bijvoorbeeld `Boekomslag van Jane Eyre`. Bij mijn album heb ik de foto’s ook beschrijvende alt-teksten gegeven, zodat een screenreader beter kan vertellen wat er op de afbeelding staat.
+Vandaag ben ik verder gegaan met de feedback uit de toegankelijkheidstest van gisteren.
 
-De boektitels zagen eerst uit als buttons, terwijl ze geen buttons waren. Daarom heb ik de achtergrond, padding en afgeronde hoeken weggehaald. Ook heb ik de links op de homepage aangepast zodat ze minder op buttons lijken en duidelijker als links herkenbaar zijn. Verder heb ik gecontroleerd of elke pagina een duidelijke `h1` heeft, zoals `Onder de Wilg`, `Mijn favoriete boeken` en `Momenten door mijn lens`.
+Ik heb eerst de boekenpagina aangepast. De tijdelijke boektitels en lege afbeeldingen heb ik vervangen door mijn echte favoriete boeken. Ook heb ik de alt-teksten duidelijker gemaakt. In plaats van teksten zoals `Boek 1` gebruik ik nu bijvoorbeeld `Boekomslag van Jane Eyre`, zodat een screenreader beter kan vertellen om welk boek het gaat.
 
-Ik heb ook de boekenpagina en albumpagina verder vormgegeven. De afbeeldingen waren eerst te groot, daarom heb ik ze kleiner gemaakt en in een grid gezet. Op een groot scherm staan nu drie boeken of foto’s naast elkaar en op kleinere schermen passen ze zich aan. Voor mijn album heb ik de foto’s een lichte frame-look gegeven zodat ze meer als een verzameling foto’s voelen.
+De boektitels zagen eerst uit als buttons, terwijl ze niet klikbaar waren. Daarom heb ik de achtergrond, padding en afgeronde hoeken weggehaald. Ook heb ik de boeken kleiner gemaakt en in een grid gezet, zodat er op een groot scherm drie boeken naast elkaar staan.
 
-Ik wil later nog meer foto’s toevoegen aan mijn album. Bij de boeken wil ik hover-states en meer interactie toevoegen. Als je op een boek klikt, wil ik bijvoorbeeld laten zien wat het boek bij mij opriep, wat ik ervan vond of een korte quote die mij is bijgebleven. Zo wil ik de website stap voor stap persoonlijker en interactiever maken.
+### Before - boekenpagina
+
+![Boekenpagina voor de aanpassingen](./assets/before-boeken.png)
+
+De boekenpagina had nog tijdelijke titels en de boektitels leken op buttons.
+
+### After - boekenpagina
+
+![Boekenpagina na de aanpassingen](./assets/after-boeken.png)
+
+Ik heb mijn echte favoriete boeken toegevoegd, de alt-teksten duidelijker gemaakt en de boeken in een grid gezet.
+
+Op de homepage heb ik de links naar `Mijn favoriete boeken` en `Momenten door mijn lens` aangepast. Eerst leken ze veel op buttons. Daarna heb ik ze eenvoudiger gemaakt, zodat ze meer als links herkenbaar zijn.
+
+### Before - homepage
+
+![Homepage voor de aanpassingen](./assets/before-homepage.png)
+
+De links op de homepage leken eerst veel op buttons.
+
+### After - homepage
+
+![Homepage na de aanpassingen](./assets/after-homepage.png)
+
+Ik heb de links aangepast zodat ze duidelijker als links herkenbaar zijn.
+
+Daarna ben ik begonnen met mijn albumpagina. Voor de eerste versie heb ik drie eigen foto's gekozen. De foto's staan naast elkaar in een grid en ik heb bij elke foto een beschrijvende alt-tekst toegevoegd, zodat de afbeeldingen ook duidelijk zijn voor een screenreader.
+
+![Eerste versie van mijn albumpagina](./assets/album-eerste-versie.png)
+
+Ik wil later nog meer foto's toevoegen en de albumpagina verder uitbreiden.
+
+Ik wil de boeken later ook interactiever maken. Ik wil hover-states toevoegen en ervoor zorgen dat je op een boek kunt klikken. Dan wil ik laten zien wat het boek bij mij opriep, wat ik ervan vond of een korte quote die mij is bijgebleven.
+
+
+
+
+
+
 ## Woensdag 30 september
 
-Vandaag heb ik samen met Seb mijn website getest op toegankelijkheid. We hebben gekeken naar de screenreader, alleen het toetsenbord en de WCAG-checklist. Seb gaf mij feedback dat de alt-teksten van mijn boeken te algemeen waren, bijvoorbeeld `Boek 1`. Ook zagen sommige boektitels eruit als buttons terwijl ze niet klikbaar waren. De links op de homepage leken ook een beetje op buttons. Verder moest ik nog beter controleren of alles met de Tab-toets bereikbaar is en of de focus-states duidelijk zijn.
+Vandaag heb ik samen met Seb mijn website getest op toegankelijkheid. Op dat moment was mijn website nog niet helemaal af. De boekenpagina had nog geen echte boekafbeeldingen en er stonden tijdelijke teksten zoals `Boektitel 1`, `Boektitel 2` en `Boektitel 3`. Deze teksten stonden in afgeronde vlakken en leken daardoor op buttons, terwijl ze niet klikbaar waren.
 
-### Waar staat WCAG en A11y voor?
+Ook waren de alt-teksten van de afbeeldingen nog te algemeen, bijvoorbeeld `Boek 1`. Met een screenreader was daardoor niet duidelijk om welk boek het ging. Op de homepage zagen de links naar mijn boeken en album er ook uit als buttons. Tijdens de test merkte ik daarom dat ik duidelijker moest laten zien wat een link, button of gewone tekst is.
+
+De basis van de website werkte wel. De pagina had een duidelijke `h1` en de links naar andere pagina's werkten. Ik moest nog verder kijken naar de screenreader, de Tab-volgorde, focus-states en het contrast van de tekst met de achtergrond.
+
+Waar staat WCAG en A11y voor?
 
 WCAG staat voor Web Content Accessibility Guidelines. A11y is een korte manier om accessibility te schrijven.
 
-### Wat vind je lastiger: toetsenbord of screenreader?
+Wat vind je lastiger: toetsenbord of screenreader?
 
 Ik vind een screenreader lastiger, omdat ik dan meer moet luisteren en onthouden waar ik ben. Ik moet vooral nog oefenen met de shortcuts.
 
-### Met welke beperking rekening houden vind je het meest lastig?
+Met welke beperking rekening houden vind je het meest lastig?
 
-Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar is het zonder beeld toch niet duidelijk. Ik voel me soms een beetje beperkt in mijn ontwerp, maar ik merk dat ik nog steeds mooie dingen kan maken als de basis toegankelijk is.
+Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar is het zonder beeld toch niet duidelijk. Ik merk wel dat ik nog steeds mooie dingen kan ontwerpen als ik eerst zorg dat de basis toegankelijk is.
 
 
 
