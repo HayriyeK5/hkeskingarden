@@ -70,6 +70,61 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 ### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README.Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
 
+## 18 september – Feedback Sprint 1 + Retrospect
+
+Aan het einde van sprint 1 kreeg ik feedback van Sanne op mijn Digital Garden.
+
+### Feedback van Sanne
+
+> **Je oorspronkelijke idee – jouw wilg centraal – was/is interessant.**  
+> Het is nog niet gelukt om dat idee goed te realiseren.  
+> Op dit moment is het een prima website, maar nog best algemeen.  
+> Probeer weer meer van je oorspronkelijke idee toe te voegen.  
+>
+> Google Fonts is verboden in Europa. Gebruik daarom `@font-face`.
+
+In mijn eerste idee wilde ik de wilg echt centraal zetten in mijn website. Tijdens het uitwerken liep ik alleen vast met HTML en CSS. Daardoor lukte het mij nog niet om mijn concept te maken zoals ik het in mijn hoofd had.
+
+Ik heb daarom tijdelijk gekozen voor een eenvoudigere en algemenere website. De website werkte wel, maar mijn eigen concept en sfeer waren nog niet duidelijk genoeg terug te zien.
+
+Ook had mijn website op dat moment nog geen echte thema's. In de volgende sprint wil ik daarom meer werken aan de visuele stijl en verschillende thema's toevoegen, zodat de website beter past bij het idee van **Onder de Wilg**.
+
+Daarnaast ga ik Google Fonts vervangen door een lokaal lettertype met `@font-face`.
+
+![Retrospect 1](assets/18september1.jpg)
+![Piek- en daltekening](assets/18september2.jpg)
+
+Aan het begin was ik nieuwsgierig en deed ik veel visual research. Ik onderzocht verschillende ideeën, maar ik had nog geen duidelijk concept.
+
+Daarna begon ik te twijfelen over welke richting ik wilde kiezen. Ik had veel ideeën tegelijk en liep ook tegen technische problemen aan. Hierdoor vond ik het moeilijk om mijn ideeën om te zetten naar HTML en CSS.
+
+Na het krijgen van feedback begon mijn richting langzaam duidelijker te worden. Ik kon opnieuw naar mijn ideeën kijken en beter bepalen wat ik in de volgende sprint wilde verbeteren.
+
+![Metafoor ijsberg](assets/18september3.jpg)
+Voor mijn retrospect heb ik een ijsberg gebruikt als metafoor.
+
+Boven water staan de dingen die zichtbaar waren, zoals mijn nieuwsgierigheid, ideeën en visual research.
+
+Onder water zitten de dingen die minder zichtbaar waren, maar wel veel invloed hadden op mijn proces. Bijvoorbeeld technische barrières, twijfel, vastlopen en moeite hebben om mijn idee uit te werken.
+
+De ijsberg laat zien dat er achter een eenvoudige website veel meer zat dan aan de buitenkant zichtbaar was.
+
+### Wat neem ik mee naar Sprint 2?
+
+In sprint 2 wil ik:
+
+- mijn oorspronkelijke wilg-concept weer duidelijker terugbrengen;
+- een sterkere en persoonlijkere visuele stijl maken;
+- thema's toevoegen aan mijn website;
+- mijn HTML en CSS verder verbeteren;
+- feedback gebruiken om mijn concept stap voor stap verder uit te werken;
+- Google Fonts vervangen door `@font-face`.
+
+
+
+
+
+
 ### 16 september
 
 Vandaag heb ik opnieuw naar mijn concept gekeken. Ik merkte dat mijn eerdere ideeën visueel leuk waren, maar dat ze op mobiel te druk konden worden en niet altijd goed pasten bij de criteria zoals fluid/adaptief, toegankelijk en duidelijk.
