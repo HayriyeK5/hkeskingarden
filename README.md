@@ -76,12 +76,11 @@ Aan het einde van sprint 1 kreeg ik feedback van Sanne op mijn Digital Garden.
 
 ### Feedback van Sanne
 
-> **Je oorspronkelijke idee – jouw wilg centraal – was/is interessant.**  
-> Het is nog niet gelukt om dat idee goed te realiseren.  
-> Op dit moment is het een prima website, maar nog best algemeen.  
-> Probeer weer meer van je oorspronkelijke idee toe te voegen.  
->
-> Google Fonts is verboden in Europa. Gebruik daarom `@font-face`.
+Je oorspronkelijke idee – jouw wilg centraal – was/is interessant.
+Het is nog niet gelukt om dat idee goed te realiseren.  
+Op dit moment is het een prima website, maar nog best algemeen.  
+Probeer weer meer van je oorspronkelijke idee toe te voegen.  
+Google Fonts is verboden in Europa. Gebruik daarom `@font-face`.
 
 In mijn eerste idee wilde ik de wilg echt centraal zetten in mijn website. Tijdens het uitwerken liep ik alleen vast met HTML en CSS. Daardoor lukte het mij nog niet om mijn concept te maken zoals ik het in mijn hoofd had.
 
