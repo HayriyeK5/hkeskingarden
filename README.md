@@ -29,7 +29,7 @@ Tijdens Sprint 2 heb ik mijn oorspronkelijke idee weer opgepakt. Door feedback, 
 
 De vier thema’s, de persoonlijke inhoud en de aangepaste vormgeving zorgen ervoor dat Onder de Wilg nu veel meer als mijn eigen digitale plek voelt.
 
-### Piek- en daltekening
+![Retrospect 2](assets/2oktober1.jpg)
 
 ![Piek- en daltekening Sprint 2](assets/2oktober2.jpg)
 
@@ -43,7 +43,7 @@ Een klein dieptepunt was de cookie pop-up. Deze werkt nog niet helemaal zoals ik
 
 Na de feedback over toegankelijkheid kon ik opnieuw naar mijn ontwerp kijken en verbeteringen toepassen. Ook hebben we de screenreader getest en deze werkte goed.
 
-### CMD-competenties
+
 
 Tijdens deze sprint heb ik aan verschillende CMD-competenties gewerkt:
  Oriënteren en begrijpen : Ik heb zelf deep dives gedaan en informatie samengevat.
@@ -51,8 +51,8 @@ Verbeelden en conceptualiseren : Ik heb mijn oorspronkelijke concept opnieuw uit
 Prototypen en uitwerken: Ik heb mijn ideeën verder uitgewerkt in HTML en CSS.
 Evalueren: Ik heb feedback gebruikt om mijn website te verbeteren en de toegankelijkheid getest met een screenreader.
 
-### Metafoor – Langzaam maar zeker vooruit
-![Retrospect 1](assets/2oktober1.jpg)
+ Metafoor – Langzaam maar zeker vooruit
+
 ![Metafoor Sprint 2](assets/2oktober3.jpg)
 
 Voor deze retrospect koos ik een schildpad als metafoor.
