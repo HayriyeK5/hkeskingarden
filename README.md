@@ -1,3 +1,89 @@
+
+## 2 oktober – Feedback Sprint 2 + Retrospect
+
+Aan het einde van sprint 2 kreeg ik feedback van Diederik op mijn Digital Garden.
+
+### Feedback van Diederik
+
+Diederik gaf aan dat mijn website veel beter bij mijn oorspronkelijke concept past dan in de vorige sprint.
+
+Ik heb mijn website opnieuw ontworpen vanuit mijn eigen idee en vier verschillende thema’s toegevoegd. Daardoor voelt de website nu veel persoonlijker en past de vormgeving beter bij Onder de Wilg.
+
+Hij vond dat mijn concept sinds de vorige sprint duidelijk vooruit is gegaan.
+
+Tijdens de feedback hebben we ook de screenreader getest. De screenreader werkte en de inhoud van de pagina kon goed worden voorgelezen. Dit was voor mij een positief punt op het gebied van toegankelijkheid.
+
+Er waren ook nog een paar verbeterpunten.
+
+De cookie pop-up heeft op dit moment maar één keuze. Dit is niet toegankelijk genoeg. Ik moet de gebruiker daarom meer duidelijke keuzes geven.
+
+Ook de knoppen waarmee je het thema en het seizoen kunt veranderen, passen visueel nog niet helemaal bij de rest van de website. Ik wil deze opnieuw vormgeven, zodat ze beter aansluiten bij de stijl van de pagina.
+
+Bij Mijn Album heb ik verschillende persoonlijke foto’s gekozen. Diederik gaf als tip dat ik ook kan uitleggen waarom ik juist deze foto’s heb gekozen. Zo krijgt deze pagina meer betekenis en wordt de persoonlijke kant van mijn website duidelijker.
+
+### Wat ging beter dan in Sprint 1?
+
+In Sprint 1 was mijn website nog vrij algemeen en lukte het mij nog niet om mijn oorspronkelijke concept goed uit te werken.
+
+Tijdens Sprint 2 heb ik mijn oorspronkelijke idee weer opgepakt. Door feedback, eigen onderzoek en technische aanpassingen kon ik mijn website veel dichter bij mijn eerste concept brengen.
+
+De vier thema’s, de persoonlijke inhoud en de aangepaste vormgeving zorgen ervoor dat Onder de Wilg nu veel meer als mijn eigen digitale plek voelt.
+
+### Piek- en daltekening
+
+![Piek- en daltekening Sprint 2](assets/2oktober2.jpg)
+
+Aan het begin van deze sprint was ik nog op zoek naar de juiste uitwerking van mijn concept.
+
+Een belangrijk hoogtepunt was dat ik mijn concept beter kon uitwerken met behulp van Sanne’s code.
+
+Daarna heb ik zelf deep dives gedaan en samenvattende notities gemaakt. Dit hielp mij om beter te begrijpen hoe ik mijn website verder wilde ontwikkelen.
+
+Een klein dieptepunt was de cookie pop-up. Deze werkt nog niet helemaal zoals ik wil en kan verder verbeterd worden.
+
+Na de feedback over toegankelijkheid kon ik opnieuw naar mijn ontwerp kijken en verbeteringen toepassen. Ook hebben we de screenreader getest en deze werkte goed.
+
+### CMD-competenties
+
+Tijdens deze sprint heb ik aan verschillende CMD-competenties gewerkt:
+ Oriënteren en begrijpen : Ik heb zelf deep dives gedaan en informatie samengevat.
+Verbeelden en conceptualiseren : Ik heb mijn oorspronkelijke concept opnieuw uitgewerkt en vier verschillende thema’s toegevoegd.
+Prototypen en uitwerken: Ik heb mijn ideeën verder uitgewerkt in HTML en CSS.
+Evalueren: Ik heb feedback gebruikt om mijn website te verbeteren en de toegankelijkheid getest met een screenreader.
+
+### Metafoor – Langzaam maar zeker vooruit
+![Retrospect 1](assets/2oktober1.jpg)
+![Metafoor Sprint 2](assets/2oktober3.jpg)
+
+Voor deze retrospect koos ik een schildpad als metafoor.
+
+De schildpad staat voor mijn manier van werken tijdens deze sprint. Ik ging niet altijd snel vooruit en liep soms vast, maar ik bleef wel stap voor stap verdergaan.
+
+Op de rug van de schildpad staan de punten waarop ik mijn ontwerp beoordeel:
+toegankelijk
+fluïde / adaptief
+interactief / dynamisch
+volwassen
+expressief
+leuk / verrassend
+
+De weg omhoog laat zien dat ik nog niet klaar ben, maar wel steeds dichter bij mijn doel kom.
+
+### Wat neem ik mee naar de volgende sprint?
+
+In de volgende sprint wil ik:
+
+de cookie pop-up toegankelijker maken;
+meer duidelijke keuzes toevoegen;
+de knoppen voor thema en seizoen beter laten passen bij de rest van de website;
+bij Mijn Album uitleggen waarom ik bepaalde foto’s heb gekozen;
+mijn thema’s verder verfijnen;
+blijven testen met de screenreader;
+mijn persoonlijke concept verder uitwerken.
+
+
+
+
 ## Donderdag 1 oktober
 
 Vandaag ben ik verder gegaan met de feedback uit de toegankelijkheidstest van gisteren.
@@ -80,6 +166,7 @@ Je oorspronkelijke idee – jouw wilg centraal – was/is interessant.
 Het is nog niet gelukt om dat idee goed te realiseren.  
 Op dit moment is het een prima website, maar nog best algemeen.  
 Probeer weer meer van je oorspronkelijke idee toe te voegen.  
+
 Google Fonts is verboden in Europa. Gebruik daarom `@font-face`.
 
 In mijn eerste idee wilde ik de wilg echt centraal zetten in mijn website. Tijdens het uitwerken liep ik alleen vast met HTML en CSS. Daardoor lukte het mij nog niet om mijn concept te maken zoals ik het in mijn hoofd had.
