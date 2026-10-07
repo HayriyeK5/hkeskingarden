@@ -1,9 +1,55 @@
 ## 5 oktober
+## Schetsen – Voor ik vergeet
 
+Voor deze opdracht heb ik het nummer Voor ik vergeet van Spinvis gekozen.
 
-Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
-Wat is jouw ideale regellengte (measure)? Leg uit waarom.
-Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik heb eerst goed naar het nummer geluisterd en daarna 12 verschillende schetsen gemaakt. In de schetsen heb ik vooral gekeken naar het ritme, de herhaling, de snelheid van de tekst en de rustige sfeer van het nummer.
+
+![Schetsen 1 en 2](assets/6oktober1.jpg)
+![Schetsen 3 en 4](assets/6oktober2.jpg)
+![Schetsen 5 en 6](assets/6oktober3.jpg)
+![Schetsen 7 en 8](assets/6oktober4.jpg)
+![Schetsen 9 en 10](assets/6oktober5.jpg)
+![Schetsen 11 en 12](assets/6oktober6.jpg)
+
+### Mijn idee
+
+Voor mij klinkt het nummer over het algemeen rustig en een beetje dromerig. Ik hoor wel verschillen in het tempo en in de nadruk. Sommige zinnen hoor ik heel rustig, terwijl andere stukken sneller achter elkaar komen.
+
+Daarom wil ik veel witruimte gebruiken. Bij rustige delen wil ik de zinnen verder uit elkaar zetten, zodat het lezen ook wat langzamer voelt. Bij stukken die ik sneller hoor, wil ik de tekst kleiner maken en dichter bij elkaar zetten.
+
+In het begin hoor ik meerdere keren “papapa”. Voor mij klinkt dit als een soort melodie die omhoog en omlaag gaat. Daarom wil ik deze tekst als een golf plaatsen. De woorden staan niet allemaal op dezelfde hoogte en verschillen een beetje in grootte.
+
+Aan het einde hoor ik:
+
+Ik hou van jou  
+Ik hou zoveel van jou  
+Tot ik vergeet  
+Ik jou vergeet  
+Jou vergeet
+
+Bij “Ik hou zoveel van jou” hoor ik meer nadruk, daarom wil ik deze zin groter maken. Daarna wil ik de tekst steeds kleiner maken en verder laten wegschuiven. Voor mij past dit bij het gevoel van vergeten en langzaam verdwijnen.
+
+Met mijn ontwerp wil ik dus niet alleen de songtekst laten lezen, maar ook met typografie laten zien hoe ik het ritme en de sfeer van het nummer hoor.
+
+### Uitwerking in HTML en CSS
+
+Eerst wilde ik bijna alle zinnen apart vormgeven. Ik probeerde veel verschillende posities en groottes te gebruiken, maar daardoor werd het al snel te druk en onoverzichtelijk.
+
+Daarom heb ik de songtekst daarna in verschillende delen verdeeld. Ik heb bijvoorbeeld classes gebruikt zoals rustig, snel, druk, persoonlijk en liefde. Op deze manier kon ik per deel beter kijken naar hoe ik dat stuk van het nummer hoor.
+
+Bij rustig gebruik ik meer witruimte en grotere afstanden tussen de zinnen. Zo blijft de rustige sfeer van het nummer behouden.
+
+Bij snel staan de woorden dichter bij elkaar en gebruik ik een kleiner letterformaat. Daarmee probeer ik het gevoel te geven dat dit gedeelte sneller voorbijgaat.
+
+Bij druk heb ik langere zinnen compacter geplaatst. Deze stukken voelen voor mij iets voller en drukker dan de rustige delen, maar ik wilde het ontwerp nog steeds rustig houden.
+
+Bij persoonlijk heb ik juist weer meer ruimte gebruikt. Dit gedeelte voelt voor mij wat emotioneler en persoonlijker, daarom wilde ik dat het meer aandacht krijgt zonder het heel groot of opvallend te maken.
+
+Voor het laatste gedeelte heb ik de class liefde gebruikt. Hier hoor ik eerst meer nadruk bij “Ik hou zoveel van jou”. Daarna wordt de tekst steeds kleiner en schuift hij verder weg bij “Tot ik vergeet”, “Ik jou vergeet” en “Jou vergeet”. Hiermee wil ik het gevoel van vergeten en langzaam verdwijnen laten zien.
+
+Door de tekst op deze manier op te delen werd mijn code ook overzichtelijker. Ik kon per gedeelte experimenteren met font-size, positie, witruimte, line-height en spacing zonder dat alles door elkaar liep.
+
 
 
 
