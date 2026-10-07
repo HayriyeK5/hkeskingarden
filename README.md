@@ -1,4 +1,23 @@
+
+
+## 7 oktober
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+Hoeveel gekkigheid moet er in je werk zitten?
+
+
+![Uitwerking in HTML en CSS](assets/7oktober.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober1.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober2.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober3.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober4.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober5.jpg)
+![Uitwerking in HTML en CSS](assets/7oktober6.jpg)
+
 ## 5 oktober
+
+
 ## Schetsen – Voor ik vergeet
 
 Voor deze opdracht heb ik het nummer Voor ik vergeet van Spinvis gekozen.
