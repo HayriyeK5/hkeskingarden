@@ -47,13 +47,46 @@ section a:hover h2 {
 
 
 
+#cookieDialog {
+	width: 32em;
+	max-width: 90%;
+	padding: 2em;
+
+	background-image: url("../dialog-bg.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	border: 0.1em solid #6f7f4f;
+	border-radius: 1em;
+
+	color: #4f613c;
+	text-align: center;
+}
+
+#cookieDialog h2 {
+	font-family: "Tangerine", cursive;
+	font-size: 3.5em;
+	font-weight: normal;
+
+	color: #4f613c;
+
+	margin-top: 0;
+	margin-bottom: 0.4em;
+}
+
+#cookieDialog > p {
+	line-height: 1.5;
+}
+
 #cookieDialog details {
 	margin: 1em 0;
 	text-align: left;
 }
 
 #cookieDialog summary {
-	color: #8f5f6d;
+	color: #5f7348;
+	padding: 0.3em 0;
 }
 
 #cookieDialog summary:hover {
@@ -61,10 +94,37 @@ section a:hover h2 {
 }
 
 #cookieDialog summary:focus-visible {
-	outline: 0.15em solid #8f5f6d;
+	outline: 0.15em solid #5f7348;
 	outline-offset: 0.2em;
 }
 
+#cookieDialog details p {
+	line-height: 1.5;
+}
+
+#cookieDialog button {
+	margin: 1em 0.3em 0;
+	padding: 0.6em 1.4em;
+
+	background-color: #6f8454;
+	color: white;
+
+	border: 0.1em solid #52663e;
+	border-radius: 1em;
+}
+
+#cookieDialog button:hover {
+	background-color: #5e7348;
+}
+
+#cookieDialog button:focus-visible {
+	outline: 0.15em solid #4f613c;
+	outline-offset: 0.2em;
+}
+
+#cookieDialog::backdrop {
+	background-color: rgba(0, 0, 0, 0.3);
+}
 
 /* bron: Sanne */
 
