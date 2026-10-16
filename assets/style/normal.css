@@ -168,6 +168,7 @@ form label {
 	font-size: 1.8em;
 
 	color: #4f613c;
+	text-shadow: 0 0 0.2em white;
 }
 
 form label:hover {
