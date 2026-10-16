@@ -155,10 +155,30 @@ body:has([value="winter"]:checked) {
 }
 
 
-form {
-	text-align: center;
-	margin-bottom: 2em;
+    form {
+	display: flex;
+	justify-content: center;
+	gap: 1.2em;
+
+	margin-top: 1em;
 }
+
+form label {
+	font-family: "Tangerine", cursive;
+	font-size: 1.8em;
+
+	color: #4f613c;
+}
+
+form label:hover {
+	color: #6f8454;
+}
+
+form input:focus-visible {
+	outline: 0.15em solid #5f7348;
+	outline-offset: 0.2em;
+}
+
 
 main {
 	text-align: center;
