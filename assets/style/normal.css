@@ -100,8 +100,8 @@ section a:hover h2 {
 }
 
 #cookieDialog summary:focus-visible {
-	outline: 0.15em solid #5f7348;
-	outline-offset: 0.2em;
+	outline: none;
+	text-decoration: underline;
 }
 
 #cookieDialog details p {
@@ -168,7 +168,9 @@ form label {
 	font-size: 1.8em;
 
 	color: #4f613c;
-	text-shadow: 0 0 0.2em white;
+	text-shadow:
+	0 0 0.15em white,
+	0 0 0.3em white;
 }
 
 form label:hover {
