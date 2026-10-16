@@ -1,8 +1,12 @@
-const popup = document.querySelector("aside");
-const button = document.querySelector("aside button");
+const cookieDialog = document.querySelector("#cookieDialog");
+const cookieJa = document.querySelector("#cookieJa");
+const cookieNee = document.querySelector("#cookieNee");
 
-button.addEventListener("click", function () {
-	popup.classList.add("verstopt");
-});
+cookieDialog.showModal();
 
+cookieJa.onclick = sluitCookie;
+cookieNee.onclick = sluitCookie;
 
+function sluitCookie() {
+	cookieDialog.close();
+}

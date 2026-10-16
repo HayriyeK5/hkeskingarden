@@ -47,19 +47,22 @@ section a:hover h2 {
 
 
 
-
-aside {
-	position: fixed;
-	bottom: 1em;
-	left: 1em;
-
-	background-color: pink;
-	padding: 1em;
-	border: 1px solid black;
+#cookieDialog details {
+	margin: 1em 0;
+	text-align: left;
 }
 
-aside.verstopt {
-	display: none;
+#cookieDialog summary {
+	color: #8f5f6d;
+}
+
+#cookieDialog summary:hover {
+	text-decoration: underline;
+}
+
+#cookieDialog summary:focus-visible {
+	outline: 0.15em solid #8f5f6d;
+	outline-offset: 0.2em;
 }
 
 
