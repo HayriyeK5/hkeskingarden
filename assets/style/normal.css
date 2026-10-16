@@ -294,10 +294,26 @@ body.boeken dialog h3 {
 
 body.boeken dialog p {
 	line-height: 1.5;
+	margin-bottom: 0;
+}
+body.boeken dialog button {
+	margin-top: 1.5em;
+	padding: 0.6em 1.4em;
+
+	background-color: #f7e9ed;
+	color: #8f5f6d;
+
+	border: 0.1em solid #8f5f6d;
+	border-radius: 1em;
 }
 
-body.boeken dialog button {
-	padding: 0.5em 1em;
+body.boeken dialog button:hover {
+	background-color: #ead4da;
+}
+
+body.boeken dialog button:focus-visible {
+	outline: 0.15em solid #8f5f6d;
+	outline-offset: 0.2em;
 }
 
 body.boeken dialog::backdrop {
