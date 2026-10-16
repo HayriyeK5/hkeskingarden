@@ -87,6 +87,12 @@ section a:hover h2 {
 #cookieDialog summary {
 	color: #5f7348;
 	padding: 0.3em 0;
+
+	border: none;
+	background: none;
+
+	font-size: 1.1em;
+	text-align: center;
 }
 
 #cookieDialog summary:hover {
@@ -99,7 +105,15 @@ section a:hover h2 {
 }
 
 #cookieDialog details p {
+	max-width: 24em;
+	margin: 1em auto 0;
+	padding: 1em;
+
 	line-height: 1.5;
+	text-align: center;
+
+	background-color: rgba(255, 248, 230, 0.7);
+	border-radius: 0.8em;
 }
 
 #cookieDialog button {
