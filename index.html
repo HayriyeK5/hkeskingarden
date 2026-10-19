@@ -2,167 +2,97 @@
 <html lang="nl">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Hayriye Keskin">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Onder de Wilg</title>
+	<title>Onder de Wilg</title>
 
-  <link rel="stylesheet" href="./assets/style/normal.css">
+	<link rel="stylesheet" href="./assets/style/normal.css">
 
-  <script
-    data-page="https://hkeskin.nl/"
-    src="https://digitaaltuintje.nl/webring.js"
-    defer>
-  </script>
+	<script
+		data-page="https://hkeskin.nl/"
+		src="https://digitaaltuintje.nl/webring.js"
+		defer>
+	</script>
 </head>
 
 <body>
 
-  <form>
-    <label>
-      <input type="radio" value="lente" name="seizoen" checked>
-      🌸lente
-    </label>
+	<header>
+		<h1>Onder de Wilg</h1>
 
-    <label>
-      <input type="radio" value="zomer" name="seizoen">
-      ☀️zomer
-    </label>
+		<form>
+			<label>
+				<input type="radio" value="lente" name="seizoen" checked>
+				🌸 lente
+			</label>
 
-    <label>
-      <input type="radio" value="herfst" name="seizoen">
-      🍂herfst
-    </label>
+			<label>
+				<input type="radio" value="zomer" name="seizoen">
+				☀️ zomer
+			</label>
 
-    <label>
-      <input type="radio" value="winter" name="seizoen">
-      ❄️winter
-    </label>
-  </form>
+			<label>
+				<input type="radio" value="herfst" name="seizoen">
+				🍂 herfst
+			</label>
 
-  <main>
-    <h1>Onder de Wilg</h1>
+			<label>
+				<input type="radio" value="winter" name="seizoen">
+				❄️ winter
+			</label>
+		</form>
+	</header>
 
-    <p>Onder mijn favoriete boom deel ik mijn foto's, favoriete boeken en dingen die mij bijblijven.</p>
 
-
-    <section>
-		<a href="boeken.html">
-			<h2>Mijn favoriete boeken</h2>
-		</a>
-	</section>
-
-	<section>
-		<a href="album.html">
-			<h2>Momenten door mijn lens</h2>
-		</a>
-	</section>
-  </main>
-
-  <footer>
-    <a
-      href="https://github.com/HayriyeK5/hkeskingarden"
-      target="_blank"
-    >
-      GitHub repository
-    </a>
-
-    <a href="./spinvis-opdracht/spinvis.html">Typografie Experiment</a>
-  </footer>
-
-<dialog id="cookieDialog">
-	<h2>Jouw favoriete seizoen</h2>
-
-	<p>
-		Wil je dat deze website jouw favoriete seizoen onthoudt?
-	</p>
-
-	<details>
-		<summary>Waarom vragen we dit?</summary>
+	<main>
 
 		<p>
-			Als je hiervoor kiest, kan jouw favoriete seizoen worden
-			gebruikt om de website de volgende keer met hetzelfde thema
-			te laten zien.
-      Deze keuze is alleen bedoeld om jouw ervaring op de website
-			persoonlijker te maken.
+			Onder mijn favoriete boom deel ik mijn foto's,
+			favoriete boeken en dingen die mij bijblijven.
 		</p>
-	</details>
 
-	<button id="cookieJa">Ja</button>
-	<button id="cookieNee">Nee</button>
-</dialog>
+		<section>
+			<a href="boeken.html">
+				<h2>Mijn favoriete boeken</h2>
+			</a>
+		</section>
 
-<script src="./script.js"></script>
+		<section>
+			<a href="album.html">
+				<h2>Momenten door mijn lens</h2>
+			</a>
+		</section>
+
+	</main>
+
+
+	<dialog id="cookieDialog">
+
+		<h2>Jouw favoriete seizoen</h2>
+
+		<p>
+			Wil je dat deze website jouw favoriete seizoen onthoudt?
+		</p>
+
+		<details>
+			<summary>Waarom vragen we dit?</summary>
+
+			<p>
+				Als je hiervoor kiest, gebruiken we jouw favoriete seizoen
+				om de website de volgende keer met hetzelfde thema te laten zien.
+				Zo voelt de website iets persoonlijker.
+			</p>
+		</details>
+
+		<button id="cookieJa">Ja</button>
+		<button id="cookieNee">Nee</button>
+
+	</dialog>
+
+
+	<script src="./script.js"></script>
 
 </body>
 
-</html>
-<!doctype html>
-<html lang="nl">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="jouw naam" />
-    <meta name="color-scheme" content="dark light" />
-
-    <title>Digital garden van ...</title>
-    <link rel="stylesheet" href="./css/normal.css" />
-
-    <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
-      data-page="https://example.com"
-      src="https://digitaaltuintje.nl/webring.js"
-      defer
-    ></script>
-  </head>
-  <body>
-    <header>
-      <h1>Digital garden van ...</h1>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="https://github.com/account/repo">Learning Log</a></li>
-        </ul>
-      </nav>
-    </header>
-
-    <main>
-      <article>
-        <h2>Een titel</h2>
-
-        <p>Alinea...</p>
-      </article>
-
-      <article>
-        <h2>Nog een titel</h2>
-
-        <p>Nog een alinea...</p>
-      </article>
-    </main>
-
-    <footer>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
-        </button>
-      </nav>
-    </footer>
-
-    <dialog id="cookieModal">
-      <form method="dialog">
-        <p lang="en">
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from your use of their
-          services.
-        </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
-      </form>
-    </dialog>
-  </body>
 </html>
