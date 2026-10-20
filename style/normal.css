@@ -40,6 +40,25 @@ body:has([value="winter"]:checked) {
 	background-image: url("../assets/winter.png");
 }
 
+body:has([value="lente"]:checked) > main > h1 {
+	color: #8f5f6d;
+	background-color: rgba(245, 220, 230, 0.55);
+}
+
+body:has([value="zomer"]:checked) > main > h1 {
+	color: #4f6d3d;
+	background-color: rgba(226, 239, 200, 0.55);
+}
+
+body:has([value="herfst"]:checked) > main > h1 {
+	color: #8a5939;
+	background-color: rgba(239, 210, 170, 0.55);
+}
+
+body:has([value="winter"]:checked) > main > h1 {
+	color: #536b7a;
+	background-color: rgba(220, 235, 245, 0.6);
+}
 
 body > form {
 	display: flex;
@@ -77,37 +96,42 @@ body > main {
 
 body > main > h1 {
 	display: inline-block;
-
-	font-family: "Tangerine", cursive;
+    font-family: "Tangerine", cursive;
 	font-size: 6em;
 	font-weight: 400;
-
-	color: #8f5f6d;
-
-	margin: 0;
+    color: #8f5f6d;
+    margin: 0;
 	padding: 0.1em 0.6em;
-
-	background-color: rgba(245, 235, 240, 0.55);
+    background-color: rgba(245, 220, 230, 0.55);
 	border-radius: 0.7em;
-
-	backdrop-filter: blur(0.2em);
+    backdrop-filter: blur(0.2em);
 }
 
 body > main > p {
 	max-width: 38em;
-
 	margin: 1.5em auto;
 	padding: 1em 2em;
-
 	line-height: 1.5;
 	text-align: center;
-
 	background-color: rgba(245, 235, 240, 0.55);
 	border-radius: 1em;
-
 	backdrop-filter: blur(0.2em);
 }
+body:has([value="lente"]:checked) > main > p {
+	background-color: rgba(245, 220, 230, 0.55);
+}
 
+body:has([value="zomer"]:checked) > main > p {
+	background-color: rgba(226, 239, 200, 0.55);
+}
+
+body:has([value="herfst"]:checked) > main > p {
+	background-color: rgba(239, 210, 170, 0.55);
+}
+
+body:has([value="winter"]:checked) > main > p {
+	background-color: rgba(220, 235, 245, 0.6);
+}
 body > main section {
 	margin: 1.5em 0;
 }
@@ -119,14 +143,11 @@ body > main section a {
 
 body > main section h2 {
 	display: inline-block;
-
 	font-family: "Tangerine", cursive;
 	font-size: 2.8em;
 	font-weight: 400;
-
 	margin: 0;
 	padding-bottom: 0.1em;
-
 	border-bottom: 0.05em solid #6f4d59;
 }
 
@@ -163,7 +184,6 @@ footer a:focus-visible {
 	width: 32em;
 	max-width: 90%;
 	padding: 2em;
-
 	background-image: url("../assets/dialog-bg.png");
 	background-size: cover;
 	background-position: center;
@@ -304,51 +324,40 @@ body.boeken header a {
 
 	color: #4f613c;
 }
-
 body.boeken header h1 {
-	display: inline-block;
-
 	font-family: "Tangerine", cursive;
 	font-size: 5em;
 	font-weight: 400;
-
 	color: #8f5f6d;
-
 	margin: 0.3em auto;
-	padding: 0.2em 0.8em;
-
-	background-color: rgba(245, 235, 240, 0.65);
-	border-radius: 0.7em;
-
-	backdrop-filter: blur(0.2em);
+	padding: 0;
+	background: none;
+	border: none;
+	border-radius: 0;
+	backdrop-filter: none;
 }
 
 body.boeken main {
 	display: grid;
 	grid-template-columns: 1fr;
 	gap: 3em;
-
 	max-width: 75em;
 	margin: 0 auto;
 }
 
 body.boeken section {
 	text-align: center;
-
 	background: none;
 	border: none;
 	box-shadow: none;
-
 	padding: 0;
 	margin: 0;
 }
 
 body.boeken section > button {
 	display: block;
-
 	margin: 0 auto;
 	padding: 0;
-
 	background: none;
 	border: none;
 }
@@ -356,9 +365,7 @@ body.boeken section > button {
 body.boeken section img {
 	width: 10em;
 	height: 15em;
-
 	object-fit: cover;
-
 	display: block;
 	margin: 0 auto;
 }
@@ -376,26 +383,20 @@ body.boeken section h2 {
 	font-family: "Tangerine", cursive;
 	font-size: 2.3em;
 	font-weight: 400;
-
 	color: #4f3f45;
-
 	margin-top: 0.4em;
 	margin-bottom: 0;
-
 	background: none;
 	border: none;
 	padding: 0;
-
 	text-align: center;
 }
 
 body.boeken dialog {
 	max-width: 25em;
 	padding: 2em;
-
 	border: 0.1em solid #8f5f6d;
 	border-radius: 1em;
-
 	text-align: center;
 }
 
@@ -403,9 +404,7 @@ body.boeken dialog h3 {
 	font-family: "Tangerine", cursive;
 	font-size: 3em;
 	font-weight: 400;
-
 	color: #8f5f6d;
-
 	margin-top: 0;
 }
 
@@ -417,10 +416,8 @@ body.boeken dialog p {
 body.boeken dialog button {
 	margin-top: 1.5em;
 	padding: 0.6em 1.4em;
-
 	background-color: #f7e9ed;
 	color: #8f5f6d;
-
 	border: 0.1em solid #8f5f6d;
 	border-radius: 1em;
 }
@@ -464,28 +461,22 @@ body.album header a {
 }
 
 body.album header h1 {
-	display: inline-block;
-
 	font-family: "Tangerine", cursive;
 	font-size: 5em;
 	font-weight: 400;
-
 	color: #8f5f6d;
-
 	margin: 0.3em auto;
-	padding: 0.2em 0.8em;
-
-	background-color: rgba(245, 235, 240, 0.65);
-	border-radius: 0.7em;
-
-	backdrop-filter: blur(0.2em);
+	padding: 0;
+	background: none;
+	border: none;
+	border-radius: 0;
+	backdrop-filter: none;
 }
 
 body.album main {
 	display: grid;
 	grid-template-columns: 1fr;
 	gap: 3em;
-
 	max-width: 70em;
 	margin: 0 auto;
 }
