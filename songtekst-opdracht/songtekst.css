@@ -246,7 +246,6 @@ h1 {
 .liefde p:nth-child(1) {
   left: 0;
   font-size: 24px;
-  font-weight: 500;
   color: #16324f;
 }
 
@@ -256,7 +255,6 @@ h1 {
   margin-bottom: 60px;
   font-size: 42px;
   line-height: 60px;
-  font-weight: 600;
   color: #243b67;
 }
 
@@ -285,32 +283,26 @@ h1 {
   left: 420px;
   margin-top: 60px;
   font-size: 13px;
-  letter-spacing: .04em;
   color: #91aabd;
-  animation-name: dromen;
-  animation-duration: 6s;
-  animation-iteration-count: infinite;
 }
 
 @keyframes vergeten {
   0% {
     left: 330px;
     opacity: 1;
-    color: #7f9caf;
   }
 
   50% {
     left: 360px;
     opacity: .7;
-    color: #9cb4c4;
   }
 
   100% {
     left: 390px;
     opacity: .45;
-    color: #b8cad5;
   }
 }
+
 
 @keyframes dromen {
   0% {
