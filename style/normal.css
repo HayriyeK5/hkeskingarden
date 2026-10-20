@@ -420,31 +420,28 @@ body.boeken dialog::backdrop {
 }
 
 
-
-
-.album-intro {
-    max-width: 650px;
-    margin: 2em auto 3em;
-    padding: 1.5em;
+.album header {
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.25);
+    margin: 2em auto 3em;
+    padding: 1em;
+}
+
+.album header h1 {
+    margin-bottom: 0.3em;
+}
+
+.album header p {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 1.5em 2em;
+    font-size: 1em;
+    line-height: 1.8;
+    color: #594b50;
+    background-color: rgba(255, 245, 240, 0.25);
     backdrop-filter: blur(6px);
     border-radius: 1.5em;
 }
 
-.album-intro h2 {
-    font-family: "Tangerine", cursive;
-    font-size: 3em;
-    font-weight: 400;
-    color: #8f5f6d;
-    margin-bottom: 0.5em;
-}
-
-.album-intro p {
-    font-size: 1em;
-    line-height: 1.8;
-    color: #4a4242;
-}
 
 
 .album-fotos {
@@ -458,38 +455,20 @@ body.boeken dialog::backdrop {
 
 .album-fotos img {
     width: 100%;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
-    border-radius: 1em;
+    height: auto;
     display: block;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
 }
-.album header {
-    text-align: center;
-    margin: 2em auto 3em;
-}
-
-.album header h1 {
-    margin-bottom: 0.3em;
-}
-
-.album header p {
-    max-width: 650px;
-    margin: 0 auto;
-    padding: 0 1em;
-
-    font-size: 1em;
-    line-height: 1.8;
-    color: #4a4242;
-}
-
 
 @media (max-width: 700px) {
     .album-fotos {
         grid-template-columns: 1fr;
     }
 
-    .album-intro {
-        margin: 1.5em 1em;
+    .album header p {
+        padding: 1em;
     }
 }
 
