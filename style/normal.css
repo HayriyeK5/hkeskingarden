@@ -40,25 +40,7 @@ body:has([value="winter"]:checked) {
 	background-image: url("../assets/winter.png");
 }
 
-body:has([value="lente"]:checked) > main > h1 {
-	color: #8f5f6d;
-	background-color: rgba(245, 220, 230, 0.55);
-}
 
-body:has([value="zomer"]:checked) > main > h1 {
-	color: #4f6d3d;
-	background-color: rgba(226, 239, 200, 0.55);
-}
-
-body:has([value="herfst"]:checked) > main > h1 {
-	color: #8a5939;
-	background-color: rgba(239, 210, 170, 0.55);
-}
-
-body:has([value="winter"]:checked) > main > h1 {
-	color: #536b7a;
-	background-color: rgba(220, 235, 245, 0.6);
-}
 
 body > form {
 	display: flex;
@@ -104,9 +86,27 @@ body > main > h1 {
 	padding: 0.1em 0.6em;
     background-color: rgba(245, 220, 230, 0.55);
 	border-radius: 0.7em;
-    backdrop-filter: blur(0.2em);
+
+}
+body:has([value="lente"]:checked) h1 {
+	color: #8f5f6d;
+	background-color: rgba(245, 220, 230, 0.55);
 }
 
+body:has([value="zomer"]:checked) h1 {
+	color: #4f6d3d;
+	background-color: rgba(226, 239, 200, 0.55);
+}
+
+body:has([value="herfst"]:checked) h1 {
+	color: #8a5939;
+	background-color: rgba(239, 210, 170, 0.55);
+}
+
+body:has([value="winter"]:checked) h1 {
+	color: #536b7a;
+	background-color: rgba(220, 235, 245, 0.6);
+}
 body > main > p {
 	max-width: 38em;
 	margin: 1.5em auto;
