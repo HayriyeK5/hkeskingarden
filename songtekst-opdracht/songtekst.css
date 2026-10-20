@@ -229,6 +229,7 @@ h1 {
   font-size: 14px;
 }
 
+
 /* liefde */
 .liefde {
   grid-column: 1 / 4;
@@ -252,7 +253,7 @@ h1 {
 .liefde p:nth-child(2) {
   left: 60px;
   margin-top: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 90px;
   font-size: 42px;
   line-height: 60px;
   color: #243b67;
@@ -261,19 +262,22 @@ h1 {
 .liefde p:nth-child(3) {
   left: 150px;
   font-size: 22px;
-  color: #355b78;
+  color: #4a6d88;
 }
 
 .liefde p:nth-child(4) {
   left: 240px;
+  margin-top: 30px;
   font-size: 18px;
-  color: #587991;
+  color: #7390a7;
 }
 
 .liefde p:nth-child(5) {
   left: 330px;
+  margin-top: 30px;
   font-size: 15px;
-  color: #7f9caf;
+  color: #a7bdcc;
+
   animation-name: vergeten;
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -281,9 +285,9 @@ h1 {
 
 .liefde p:nth-child(6) {
   left: 420px;
-  margin-top: 60px;
+  margin-top: 90px;
   font-size: 13px;
-  color: #91aabd;
+  color: #b7cad6;
 }
 
 @keyframes vergeten {
