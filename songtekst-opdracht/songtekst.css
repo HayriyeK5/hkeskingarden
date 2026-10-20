@@ -178,43 +178,22 @@ h1 {
 /* snel */
 
 .snel {
-  grid-column: 2 / 4;
+  grid-column: 1 / 4;
 
   margin-top: 0;
   margin-bottom: 30px;
 }
 
 .snel p {
-  position: relative;
-
   margin: 0;
 
   font-size: 14px;
   line-height: 20px;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.05em;
+
+  white-space: nowrap;
 
   color: #244967;
-
-  animation-name: snel;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-}
-
-@keyframes snel {
-  0% {
-    left: 0;
-    letter-spacing: -0.02em;
-  }
-
-  50% {
-    left: 30px;
-    letter-spacing: -0.06em;
-  }
-
-  100% {
-    left: 0;
-    letter-spacing: -0.02em;
-  }
 }
 
 
