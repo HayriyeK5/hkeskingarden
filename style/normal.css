@@ -456,19 +456,19 @@ body.album {
     border-radius: 0;
     box-shadow: none;}
 
-
 .album-fotos {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1.5em;
-    max-width: 1100px;
-    margin: 2em auto;
+    max-width: 950px;
+    margin: 2em auto 4em;
     padding: 1em;
 }
 
 .album-fotos img {
     width: 100%;
-    height: auto;
+    height: 350px;
+    object-fit: cover;
     display: block;
     border: none;
     border-radius: 0;
