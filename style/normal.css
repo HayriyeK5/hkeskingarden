@@ -1,250 +1,157 @@
 
-
-
-@font-face {
-	font-family: "Tangerine";
-	src: url("../fonts/Tangerine_Regular.ttf") format("truetype");
-	font-weight: 400;
-	font-style: normal;
-}
+/* lettertype */
 
 @font-face {
 	font-family: "Tangerine";
-	src: url("../fonts/Tangerine_Bold.ttf") format("truetype");
-	font-weight: 700;
-	font-style: normal;
+	src: url("../type/Tangerine_Regular.ttf");
 }
 
 
+/* algemene opmaak */
 
 body {
 	margin: 0;
 	min-height: 100dvh;
+	padding: 2em;
 
-	background-image: url("../assets/lente.png");
+	background-image: url("../lente.png");
 	background-size: cover;
-	background-position: center;
+	background-position: center 70%;
 	background-repeat: no-repeat;
 
-	padding: 3em;
+	color: #4f613c;
+}
+
+* {
+	box-sizing: border-box;
 }
 
 
-/* bron: Sanne  */
+/* seizoenen */
+/* bron: Sanne - voorbeeld met :has() */
 
 body:has([value="zomer"]:checked) {
-	background-image: url("../assets/zomer.png");
+	background-image: url("../zomer.png");
 }
 
 body:has([value="herfst"]:checked) {
-	background-image: url("../assets/herfst.png");
+	background-image: url("../herfst.png");
 }
 
 body:has([value="winter"]:checked) {
-	background-image: url("../assets/winter.png");
+	background-image: url("../winter.png");
 }
 
 
-body > main > h1 {
+/* seizoen kiezen */
+
+form {
+	display: flex;
+	justify-content: center;
+	gap: 1.2em;
+	flex-wrap: wrap;
+
+	margin-top: 1em;
+}
+
+form label {
+	font-family: "Tangerine", cursive;
+	font-size: 1.8em;
+	color: #4f613c;
+
+	text-shadow: 0 0 0.2em white;
+}
+
+form label:hover {
+	color: #6f8454;
+}
+
+form input:focus-visible {
+	outline: 0.15em solid #5f7348;
+	outline-offset: 0.2em;
+}
+
+
+/* homepage */
+
+body:not(.boeken):not(.album) main {
+	text-align: center;
+}
+
+body:not(.boeken):not(.album) h1 {
 	font-family: "Tangerine", cursive;
 	font-size: 6em;
-	font-weight: 400;
+	font-weight: normal;
 
 	color: #8f5f6d;
 
-	margin: 0;
+	text-align: center;
+	margin: 0.5em auto;
+	padding: 0.15em 0.4em;
+
+	background-color: rgba(255, 248, 250, 0.55);
+	border-radius: 0.5em;
+
+	width: fit-content;
+	max-width: 100%;
 }
 
-body > main > p {
+body:not(.boeken):not(.album) main > p {
+	max-width: 35em;
+	margin: 1em auto;
+	padding: 1em;
+
+	background-color: rgba(255, 248, 250, 0.55);
+	border-radius: 1em;
+
+	font-size: 1.3em;
 	line-height: 1.5;
-	max-width: 30em;
 }
 
 
+/* homepage links */
 
+body:not(.boeken):not(.album) section {
+	margin-top: 2em;
+	text-align: center;
+}
 
-body > main section a {
+body:not(.boeken):not(.album) section a {
 	color: #6f4d59;
 	text-decoration: none;
 }
 
-body > main section h2 {
+body:not(.boeken):not(.album) section h2 {
 	font-family: "Tangerine", cursive;
-	font-size: 2.8em;
-	font-weight: 400;
+	font-size: 3em;
+	font-weight: normal;
 
 	display: inline-block;
-
 	margin: 0;
-	padding-bottom: 0.1em;
+	padding: 0;
 
-	border-bottom: 0.05em solid #6f4d59;
-}
-
-body > main section a:hover h2 {
-	color: #3f5f3f;
-	border-bottom-color: #3f5f3f;
-}
-
-body > main section a:focus-visible {
-	outline: 0.15em solid #5f7348;
-	outline-offset: 0.2em;
-}
-
-
-
-body > form {
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
-	gap: 1.2em;
-
-	margin-bottom: 2em;
-}
-
-body > form label {
-	font-family: "Tangerine", cursive;
-	font-size: 1.8em;
-
-	color: #4f613c;
-
-	text-shadow:
-		0 0 0.15em white,
-		0 0 0.3em white;
-}
-
-body > form label:hover {
-	color: #6f8454;
-}
-
-body > form input:focus-visible {
-	outline: 0.15em solid #5f7348;
-	outline-offset: 0.2em;
-}
-
-
-
-
-footer {
-	margin-top: 3em;
-}
-
-footer a {
-	color: #4f613c;
-}
-
-footer a:hover {
-	color: #8f5f6d;
-}
-
-footer a:focus-visible {
-	outline: 0.15em solid #5f7348;
-	outline-offset: 0.2em;
-}
-
-
-
-#cookieDialog {
-	width: 32em;
-	max-width: 90%;
-	padding: 2em;
-
-	background-image: url("../assets/dialog-bg.png");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-
-	border: 0.1em solid #6f7f4f;
-	border-radius: 1em;
-
-	color: #4f613c;
-	text-align: center;
-}
-
-#cookieDialog h2 {
-	font-family: "Tangerine", cursive;
-	font-size: 3.5em;
-	font-weight: 400;
-
-	color: #4f613c;
-
-	margin-top: 0;
-	margin-bottom: 0.4em;
-}
-
-#cookieDialog > p {
-	line-height: 1.5;
-}
-
-#cookieDialog details {
-	margin: 1.2em 0;
-	text-align: center;
-}
-
-#cookieDialog summary {
-	color: #5f7348;
-
-	padding: 0.3em 0;
-
-	border: none;
 	background: none;
+	border: none;
+	border-radius: 0;
+	border-bottom: 0.05em solid currentColor;
 
-	font-size: 1.1em;
-	text-align: center;
+	text-shadow: 0 0 0.2em white;
 }
 
-#cookieDialog summary:hover,
-#cookieDialog summary:focus-visible {
-	text-decoration: underline;
+body:not(.boeken):not(.album) section a:hover {
+	color: #3f5f3f;
 }
 
-#cookieDialog summary:focus-visible {
-	outline: none;
-}
-
-#cookieDialog details p {
-	max-width: 24em;
-	margin: 1em auto 0;
-	padding: 1em;
-
-	line-height: 1.5;
-	text-align: center;
-
-	background-color: rgba(255, 248, 230, 0.7);
-	border-radius: 0.8em;
-}
-
-#cookieDialog button {
-	margin: 1em 0.3em 0;
-	padding: 0.5em 1.3em;
-
-	background-color: #6f8454;
-	color: white;
-
-	border: 0.1em solid #52663e;
-	border-radius: 1em;
-
-	font-family: "Tangerine", cursive;
-	font-size: 1.8em;
-}
-
-#cookieDialog button:hover {
-	background-color: #5e7348;
-}
-
-#cookieDialog button:focus-visible {
+body:not(.boeken):not(.album) section a:focus-visible {
 	outline: 0.15em solid #4f613c;
 	outline-offset: 0.2em;
 }
 
-#cookieDialog::backdrop {
-	background-color: rgba(0, 0, 0, 0.3);
-}
 
-
+/* boeken pagina */
 
 body.boeken {
-	background-image: url("../assets/books.png");
+	background-image: url("../books.png");
 	background-size: cover;
 	background-position: center 70%;
 	background-repeat: no-repeat;
@@ -265,15 +172,14 @@ body.boeken header a {
 body.boeken header h1 {
 	font-family: "Tangerine", cursive;
 	font-size: 4.5em;
-	font-weight: 400;
-
+	font-weight: normal;
 	color: #8f5f6d;
 
 	background: none;
 	border: none;
 	border-radius: 0;
-
 	padding: 0;
+
 	margin: 0.3em 0;
 }
 
@@ -290,10 +196,12 @@ body.boeken section {
 	text-align: center;
 }
 
+
+/* boekafbeeldingen */
+
 body.boeken section img {
 	width: 10em;
 	height: 15em;
-
 	object-fit: cover;
 
 	display: block;
@@ -301,7 +209,7 @@ body.boeken section img {
 }
 
 
-
+/* boeken buttons */
 
 body.boeken section > button {
 	display: block;
@@ -322,26 +230,25 @@ body.boeken section > button:focus-visible {
 }
 
 
+/* boektitels */
 
 body.boeken section h2 {
 	font-family: "Tangerine", cursive;
 	font-size: 2.2em;
-	font-weight: 400;
+	font-weight: normal;
 
 	display: block;
-
 	margin-top: 0.4em;
 	margin-bottom: 0;
+	padding: 0;
 
 	background: none;
 	border: none;
-	padding: 0;
-
 	text-align: center;
 }
 
 
-
+/* boeken dialog */
 
 body.boeken dialog {
 	max-width: 25em;
@@ -350,13 +257,14 @@ body.boeken dialog {
 	border: 0.1em solid #8f5f6d;
 	border-radius: 1em;
 
+	background-color: #fffafa;
 	text-align: center;
 }
 
 body.boeken dialog h3 {
 	font-family: "Tangerine", cursive;
 	font-size: 3em;
-	font-weight: 400;
+	font-weight: normal;
 
 	margin-top: 0;
 }
@@ -391,39 +299,14 @@ body.boeken dialog::backdrop {
 }
 
 
-@media (min-width: 40em) {
-
-	body.boeken main {
-		grid-template-columns: repeat(2, 1fr);
-	}
-
-}
-
-
-
-
-@media (min-width: 60em) {
-
-	body.boeken main {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-}
-
-
-
+/* album pagina */
 
 body.album {
-	margin: 0;
-	min-height: 100dvh;
-
-	background-image: url("../assets/album.png");
+	background-image: url("../album.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-
-	padding: 3em;
 }
 
 body.album header {
@@ -440,7 +323,7 @@ body.album header a {
 body.album header h1 {
 	font-family: "Tangerine", cursive;
 	font-size: 4.5em;
-	font-weight: 400;
+	font-weight: normal;
 
 	color: #8f5f6d;
 
@@ -465,7 +348,6 @@ body.album section {
 	text-align: center;
 
 	background-color: rgba(255, 248, 250, 0.75);
-
 	padding: 1em;
 
 	border: 0.08em solid rgba(150, 110, 120, 0.35);
@@ -476,19 +358,155 @@ body.album section {
 
 body.album section img {
 	width: 100%;
+	max-width: 14em;
 	aspect-ratio: 9 / 16;
 
 	object-fit: cover;
 	display: block;
+	margin: 0 auto;
 
 	border-radius: 0.8em;
-	border: 0.15em solid rgba(255, 255, 255, 0.9);
 }
 
 
+/* cookie dialog */
 
+#cookieDialog {
+	width: 32em;
+	max-width: 90%;
+	max-height: 85vh;
+	overflow-y: auto;
+	padding: 2em;
+
+	background-image: url("../dialog-bg.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+	border: 0.1em solid #6f7f4f;
+	border-radius: 1em;
+
+	color: #4f613c;
+	text-align: center;
+}
+
+#cookieDialog h2 {
+	font-family: "Tangerine", cursive;
+	font-size: 3.5em;
+	font-weight: normal;
+
+	color: #4f613c;
+
+	margin-top: 0;
+	margin-bottom: 0.4em;
+}
+
+#cookieDialog > p {
+	line-height: 1.5;
+}
+
+
+/* details en summary */
+
+#cookieDialog details {
+	margin: 1.2em 0;
+	padding: 0;
+	border: none;
+	background: none;
+	text-align: center;
+}
+
+#cookieDialog summary {
+	color: #5f7348;
+	font-size: 1.1em;
+
+	padding: 0.3em 0;
+	margin: 0;
+
+	border: none;
+	background: none;
+	outline: none;
+
+	text-align: center;
+	list-style: none;
+}
+
+#cookieDialog summary::-webkit-details-marker {
+	display: none;
+}
+
+#cookieDialog summary::before {
+	content: "+ ";
+}
+
+#cookieDialog details[open] summary::before {
+	content: "− ";
+}
+
+#cookieDialog summary:hover {
+	text-decoration: underline;
+}
+
+#cookieDialog summary:focus-visible {
+	outline: none;
+	text-decoration: underline;
+	text-decoration-thickness: 0.12em;
+	text-underline-offset: 0.2em;
+}
+
+
+/* uitleg in details */
+
+#cookieDialog details p {
+	max-width: 24em;
+	margin: 1em auto 0;
+	padding: 1em;
+
+	line-height: 1.5;
+	text-align: center;
+
+	background-color: rgba(255, 248, 230, 0.7);
+	border-radius: 0.8em;
+}
+
+
+/* ja en nee buttons */
+
+#cookieDialog button {
+	margin: 1em 0.3em 0;
+	padding: 0.5em 1.3em;
+
+	background-color: #6f8454;
+	color: white;
+
+	border: 0.1em solid #52663e;
+	border-radius: 1em;
+
+	font-family: "Tangerine", cursive;
+	font-size: 1.8em;
+}
+
+#cookieDialog button:hover {
+	background-color: #5e7348;
+}
+
+#cookieDialog button:focus-visible {
+	outline: 0.15em solid #4f613c;
+	outline-offset: 0.2em;
+}
+
+#cookieDialog::backdrop {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+/* tablet */
 
 @media (min-width: 40em) {
+
+	body.boeken main {
+		grid-template-columns: repeat(2, 1fr);
+	}
 
 	body.album main {
 		grid-template-columns: repeat(2, 1fr);
@@ -497,11 +515,48 @@ body.album section img {
 }
 
 
+/* desktop */
 
 @media (min-width: 60em) {
 
+	body.boeken main {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
 	body.album main {
 		grid-template-columns: repeat(3, 1fr);
+	}
+
+}
+
+
+/* mobiel */
+
+@media (max-width: 40em) {
+
+	body {
+		padding: 1em;
+	}
+
+	body:not(.boeken):not(.album) h1 {
+		font-size: 4em;
+	}
+
+	body:not(.boeken):not(.album) main > p {
+		font-size: 1em;
+	}
+
+	body.boeken header h1,
+	body.album header h1 {
+		font-size: 3.5em;
+	}
+
+	#cookieDialog {
+		padding: 1.2em;
+	}
+
+	#cookieDialog h2 {
+		font-size: 2.8em;
 	}
 
 }
