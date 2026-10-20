@@ -420,6 +420,15 @@ body.boeken dialog::backdrop {
 }
 
 
+body.album {
+    background-image: url("../assets/album.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
 .album header {
     text-align: center;
     margin: 2em auto 3em;
@@ -427,21 +436,25 @@ body.boeken dialog::backdrop {
 }
 
 .album header h1 {
-    margin-bottom: 0.3em;
+  font-family: "Tangerine", cursive;
+    font-size: clamp(4rem, 8vw, 6rem);
+    font-weight: 400;
+    color: #8f5f6d;
+    margin: 0 0 0.2em;
 }
 
 .album header p {
-    max-width: 650px;
+     max-width: 650px;
     margin: 0 auto;
-    padding: 1.5em 2em;
+    padding: 0 1em;
     font-size: 1em;
     line-height: 1.8;
     color: #594b50;
-    background-color: rgba(255, 245, 240, 0.25);
-    backdrop-filter: blur(6px);
-    border-radius: 1.5em;
-}
-
+    background: none;
+    backdrop-filter: none;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;}
 
 
 .album-fotos {
