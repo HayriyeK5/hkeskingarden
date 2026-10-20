@@ -463,7 +463,24 @@ body.boeken dialog::backdrop {
     border-radius: 1em;
     display: block;
 }
+.album header {
+    text-align: center;
+    margin: 2em auto 3em;
+}
 
+.album header h1 {
+    margin-bottom: 0.3em;
+}
+
+.album header p {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 1em;
+
+    font-size: 1em;
+    line-height: 1.8;
+    color: #4a4242;
+}
 
 
 @media (max-width: 700px) {
