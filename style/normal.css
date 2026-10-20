@@ -525,7 +525,7 @@ body.album section img {
 @media (min-width: 60em) {
 
 	body.boeken main {
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(3, 1fr);
 	}
 
 	body.album main {
