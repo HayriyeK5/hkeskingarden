@@ -185,13 +185,36 @@ h1 {
 }
 
 .snel p {
+  position: relative;
+
   margin: 0;
 
-  font-size: 15px;
-  line-height: 30px;
-  letter-spacing: -0.02em;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: -0.04em;
 
   color: #244967;
+
+  animation-name: snel;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes snel {
+  0% {
+    left: 0;
+    letter-spacing: -0.02em;
+  }
+
+  50% {
+    left: 30px;
+    letter-spacing: -0.06em;
+  }
+
+  100% {
+    left: 0;
+    letter-spacing: -0.02em;
+  }
 }
 
 
