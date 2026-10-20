@@ -1,4 +1,20 @@
+## Feedback en aanpassingen
 
+Na mijn feedback ben ik verder gegaan met het ontwerp van mijn songtekst.
+
+Diederik gaf aan dat er op sommige plekken te veel witruimte zat. Daardoor voelde de tekst te los van elkaar en een beetje onderbroken. Daarom heb ik de afstanden tussen de verschillende delen kleiner gemaakt. Ik wilde de rustige sfeer van het nummer wel behouden, dus ik heb de witruimte niet helemaal weggehaald, maar alleen beter verdeeld.
+
+Ook vond Diederik het laatste gedeelte sterk, waar de tekst steeds kleiner wordt en verder weg schuift. Hij vond dat het gevoel van verdwijnen en vergeten daar goed zichtbaar werd. Daarom heb ik besloten om verder te gaan met dat idee.
+
+Ik heb daarna meer aandacht besteed aan het verschil tussen de verschillende delen van het nummer. De rustige stukken heb ik ruim gehouden, maar minder ver uit elkaar dan eerst. De snellere stukken heb ik kleiner en compacter gemaakt, zodat ze ook sneller gelezen worden.
+
+Bij de intro met “papapa” heb ik de golfvorm behouden en daar een rustige animatie aan toegevoegd. De tekst beweegt een beetje omhoog en omlaag, zodat de melodie ook visueel zichtbaar wordt.
+
+Bij het laatste gedeelte heb ik het idee van verdwijnen verder uitgewerkt. De tekst wordt niet alleen kleiner en schuift verder weg, maar wordt ook lichter van kleur en transparanter. Zo wordt het gevoel van vergeten nog sterker.
+
+Ook heb ik kleuren toegevoegd. Ik heb gekozen voor een lichtblauwe achtergrond en donkerblauwe tekst, omdat dit voor mij past bij de rustige en dromerige sfeer van het nummer. In het laatste gedeelte worden de kleuren steeds lichter, zodat de tekst langzaam lijkt te verdwijnen in de achtergrond.
+
+Door de feedback heb ik mijn ontwerp dus rustiger, samenhangender en duidelijker gemaakt. Ik heb vooral geprobeerd om de sterke delen van mijn eerste ontwerp verder uit te werken in plaats van alles opnieuw te veranderen.
 
 ## 7 oktober
 
