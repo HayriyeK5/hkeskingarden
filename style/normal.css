@@ -351,18 +351,6 @@ body.boeken section {
 	padding: 0;
 	margin: 0;
 }
-body.boeken section button {
-	display: block;
-	margin: 0 auto;
-	padding: 0;
-
-	background: none;
-	border: none;
-	border-radius: 0.8em;
-
-	transition: 0.3s;
-}
-
 body.boeken section img {
 	width: 10em;
 	height: 15em;
@@ -372,8 +360,9 @@ body.boeken section img {
 	margin: 0 auto;
 
 	border-radius: 0.8em;
+	border: 0.08em solid rgba(143, 95, 109, 0.35);
 
-	box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.15);
+	box-shadow: 0 0.25em 0.6em rgba(0, 0, 0, 0.18);
 }
 
 body.boeken section button:hover {
@@ -381,12 +370,11 @@ body.boeken section button:hover {
 }
 
 body.boeken section button:hover img {
-	box-shadow: 0 0.3em 0.8em rgba(143, 95, 109, 0.35);
-}
+	border-color: #8f5f6d;
 
-body.boeken section button:focus-visible {
-	outline: 0.15em solid #8f5f6d;
-	outline-offset: 0.2em;
+	box-shadow:
+		0 0.35em 0.9em rgba(0, 0, 0, 0.22),
+		0 0 0.5em rgba(143, 95, 109, 0.3);
 }
 
 
