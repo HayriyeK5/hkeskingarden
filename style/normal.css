@@ -458,18 +458,22 @@ body.album {
     margin: 0 0 0.2em;
 }
 
+
 .album header p {
-     max-width: 650px;
-    margin: 0 auto;
-    padding: 0 1em;
+    max-width: 650px;
+    margin: 1.5em auto 0;
+    padding: 0.5em 1.5em;
+    border-left: 2px solid #b79b9d;
+    text-align: left;
     font-size: 1em;
+    font-style: italic;
     line-height: 1.8;
     color: #594b50;
     background: none;
     backdrop-filter: none;
-    border: none;
-    border-radius: 0;
-    box-shadow: none;}
+    box-shadow: none;
+}
+
 
 .album-fotos {
     display: grid;
