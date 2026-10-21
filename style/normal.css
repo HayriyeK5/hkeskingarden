@@ -128,34 +128,53 @@ body:has([value="herfst"]:checked) > main > p {
 body:has([value="winter"]:checked) > main > p {
 	background-color: rgba(220, 235, 245, 0.6);
 }
-body > main section {
+main section {
 	margin: 1.5em 0;
 }
 
-body > main section a {
+main section a {
 	color: #6f4d59;
 	text-decoration: none;
 }
 
-body > main section h2 {
+main section h2 {
 	display: inline-block;
+
 	font-family: "Tangerine", cursive;
 	font-size: 2.8em;
-	font-weight: 400;
+	font-weight: 700;
+
+	color: #8f5f6d;
+
 	margin: 0;
 	padding-bottom: 0.1em;
-	border-bottom: 0.05em solid #6f4d59;
+
+	border-bottom: 0.05em solid #8f5f6d;
+
+	text-shadow:
+		0 0 0.12em rgba(255, 255, 255, 0.8),
+		0 0 0.25em rgba(143, 95, 109, 0.25);
+
+	transition: 0.3s;
 }
 
-body > main section a:hover h2 {
-	color: #3f5f3f;
-	border-bottom-color: #3f5f3f;
+main section a:hover h2 {
+	color: #744a58;
+	border-bottom-color: #744a58;
+
+	text-shadow:
+		0 0 0.15em white,
+		0 0 0.35em rgba(143, 95, 109, 0.55),
+		0 0 0.6em rgba(143, 95, 109, 0.35);
+
+	transform: scale(1.04);
 }
 
-body > main section a:focus-visible {
+main section a:focus-visible {
 	outline: 0.15em solid #5f7348;
 	outline-offset: 0.2em;
 }
+
 
 
 footer {
