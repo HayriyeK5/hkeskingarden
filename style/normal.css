@@ -16,12 +16,10 @@ body {
 	margin: 0;
 	min-height: 100dvh;
 	padding: 2em;
-
 	background-image: url("../assets/lente.png");
 	background-size: cover;
 	background-position: center 70%;
 	background-repeat: no-repeat;
-
 	color: #4f613c;
 }
 
@@ -54,9 +52,7 @@ body > form {
 body > form label {
 	font-family: "Tangerine", cursive;
 	font-size: 1.8em;
-
 	color: #4f613c;
-
 	text-shadow:
 		0 0 0.15em white,
 		0 0 0.3em white;
@@ -290,7 +286,6 @@ body.boeken {
 	margin: 0;
 	min-height: 100dvh;
 	padding: 2em;
-
 	background-image: url("../assets/books.png");
 	background-size: cover;
 	background-position: center;
@@ -306,7 +301,6 @@ body.boeken header {
 body.boeken header a {
 	display: block;
 	text-align: left;
-
 	color: #4f613c;
 }
 body.boeken header h1 {
