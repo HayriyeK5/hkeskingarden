@@ -1,13 +1,36 @@
-## Aanpassingen na feedback
+## Herfstvakantie 
 
-Na de feedback heb ik mijn ontwerp aangepast. Diederik zei dat er op sommige plekken te veel witruimte was, waardoor de tekst te los van elkaar stond. Daarom heb ik de afstanden kleiner gemaakt, maar wel genoeg ruimte gehouden om de rustige sfeer van het nummer te behouden.
+Na de feedback van Diederik heb ik tijdens de herfstvakantie een paar onderdelen van mijn website aangepast.
 
-Hij vond het laatste gedeelte, waar de tekst steeds kleiner wordt en verdwijnt, wel sterk. Daarom ben ik verder gegaan met dat idee. Ik heb de tekst daar lichter gemaakt en een animatie toegevoegd zodat het gevoel van vergeten nog duidelijker wordt.
+De cookie pop-up had eerst maar één keuze. Ik heb deze veranderd naar een dialog met twee opties: Ja en Nee. Ook heb ik details en summary toegevoegd, zodat de bezoeker extra uitleg kan openen over waarom deze keuze wordt gevraagd.
 
-Ook heb ik de intro met “papapa” geanimeerd. De woorden bewegen een beetje omhoog en omlaag, omdat ik daar een golvende melodie hoor.
+De seizoenskeuze heb ik visueel aangepast zodat deze beter past bij Onder de Wilg. Ik heb kleine emoji’s toegevoegd en de kleur van de titel en de achtergrond achter de titel laten veranderen met het gekozen seizoen.
 
-Voor de kleuren heb ik gekozen voor een lichtblauwe achtergrond en donkerblauwe tekst. Dat past voor mij bij de rustige en dromerige sfeer van het nummer. De snellere stukken heb ik kleiner en compacter gemaakt, zodat ze ook sneller gelezen worden.
+Op de boekenpagina heb ik mijn echte favoriete boeken toegevoegd. De covers staan nu netjes in een grid, hebben dezelfde afmetingen en zijn klikbaar. Als je op een boek klikt, opent er een dialog waarin ik later mijn eigen gedachten over het boek kan toevoegen.
 
+Bij Mijn Album heb ik mijn eigen foto’s toegevoegd en de pagina persoonlijker gemaakt. Ik heb bovenaan een korte tekst gezet waarin ik uitleg waarom ik juist deze foto’s heb gekozen en waarom deze momenten voor mij bijzonder zijn. Zo krijgt de albumpagina meer betekenis dan alleen een verzameling foto's.
+
+
+
+Na de feedback heb ik vooral gekeken naar de ruimte, animatie en sfeer van mijn ontwerp.
+Eerst zat er te veel witruimte tussen de verschillende delen. Daardoor voelde de tekst te los van elkaar. Ik heb de afstanden daarom kleiner gemaakt, maar wel genoeg ruimte gehouden om de rustige sfeer van het nummer te behouden.
+De intro met “papapa” heb ik geanimeerd. Ik heb de regels eerst met left op verschillende plekken gezet en daarna met @keyframes een kleine beweging omhoog en omlaag gemaakt. Met animation-delay beginnen de regels niet allemaal tegelijk, waardoor het meer als een golf beweegt.
+Bij het laatste gedeelte heb ik het idee van verdwijnen verder uitgewerkt. De zinnen worden steeds kleiner, schuiven verder naar rechts en worden lichter van kleur. Bij “Jou vergeet” verandert ook de opacity, zodat de tekst langzaam lijkt te verdwijnen.
+De snellere stukken heb ik kleiner en compacter gemaakt met font-size, letter-spacing en word-spacing. Daardoor worden deze zinnen sneller gelezen.
+Ook heb ik een lichtblauwe achtergrond en donkerblauwe tekst toegevoegd. Dit past voor mij bij de rustige en dromerige sfeer van het nummer. De tekst wordt richting het einde steeds lichter, zodat het gevoel van vergeten nog duidelijker wordt.
+Tot slot heb ik de tekst in HTML iets aangepast, zodat zinnen niet onnodig met “En” beginnen. De indeling en het ontwerp zijn daarbij hetzelfde gebleven.
+
+
+
+## Feedback 9 oktober – Diederik
+
+Op 9 oktober heb ik feedback gekregen van Diederik. Hij vond dat er nog te veel witruimte tussen de verschillende delen van de songtekst zat. Hierdoor voelde de pagina op sommige plekken te los en onderbroken. Hij adviseerde mij om de afstanden kleiner te maken, zodat de tekst meer als één geheel voelt.
+
+Het laatste gedeelte, waar de tekst steeds kleiner wordt en langzaam verdwijnt, vond hij juist sterk. Hij adviseerde mij om verder te spelen met dit idee door bijvoorbeeld kleur en animatie te gebruiken.
+
+Ook gaf hij aan dat sommige losse zinnen met “En” begonnen. Grammaticaal was dit niet altijd logisch, dus deze zinnen moest ik anders indelen of herschrijven.
+
+Met deze feedback ben ik daarna verder gegaan met mijn ontwerp.
 ## 7 oktober
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
