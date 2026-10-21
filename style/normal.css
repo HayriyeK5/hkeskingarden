@@ -351,31 +351,44 @@ body.boeken section {
 	padding: 0;
 	margin: 0;
 }
-
-body.boeken section > button {
+body.boeken section button {
 	display: block;
 	margin: 0 auto;
 	padding: 0;
+
 	background: none;
 	border: none;
+	border-radius: 0.8em;
+
+	transition: 0.3s;
 }
 
 body.boeken section img {
 	width: 10em;
 	height: 15em;
+
 	object-fit: cover;
 	display: block;
 	margin: 0 auto;
+
+	border-radius: 0.8em;
+
+	box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.15);
 }
 
-body.boeken section > button:hover {
+body.boeken section button:hover {
 	transform: scale(1.05);
 }
 
-body.boeken section > button:focus-visible {
+body.boeken section button:hover img {
+	box-shadow: 0 0.3em 0.8em rgba(143, 95, 109, 0.35);
+}
+
+body.boeken section button:focus-visible {
 	outline: 0.15em solid #8f5f6d;
 	outline-offset: 0.2em;
 }
+
 
 body.boeken section h2 {
 	font-family: "Tangerine", cursive;
