@@ -1,4 +1,62 @@
 
+## Donderdag 22 Oktober
+Wat heb ik met de feedback gedaan?
+
+Na de peerfeedback heb ik de klikbare onderdelen duidelijker gemaakt.
+
+De titels Mijn favoriete boeken en Momenten door mijn lens heb ik dikker gemaakt en een lichte schaduw gegeven. Bij hover worden ze iets groter en krijgt de tekst meer glans, zodat beter zichtbaar is dat het links zijn.
+
+Ook de boekcovers heb ik aangepast. De covers hebben nu standaard een lichte rand en schaduw. Bij hover wordt de cover iets groter en wordt de schaduw sterker, zodat duidelijker is dat je op de boeken kunt klikken.
+
+Op de albumpagina heb ik de foto’s visueel aangepast met een lichte rand, afgeronde hoeken en een zachte schaduw. Ook heb ik de tekst bovenaan opnieuw uitgelijnd en de positie aangepast, zodat de titel, uitleg en foto’s beter bij elkaar passen en de pagina rustiger oogt.
+
+![Update na feedback](readme-images/update9.png)
+
+
+![Update na feedback](readme-images/update10.png)
+
+
+![Update na feedback](readme-images/update11.png)
+
+
+![Update na feedback](readme-images/update12.png)
+
+
+![Update na feedback](readme-images/update13.png)
+
+
+
+
+## Woensdag 21 Oktober
+
+
+![bwg3](readme-images/bwg3.jpeg)
+
+
+
+- peerfeedback van Joelle en Oluwaseyi
+
+Woensdag heb ik samen met Joelle en Oluwaseyi het peerfeedbackformulier ingevuld en mijn website laten zien.
+
+Zij vonden dat de website persoonlijk is en goed past bij het concept van Onder de Wilg. Wel gaven ze aan dat sommige klikbare onderdelen nog duidelijker mochten worden.
+
+De titels Mijn favoriete boeken en Momenten door mijn lens zagen er nog niet genoeg uit als links. Ze adviseerden om deze visueel meer te laten opvallen, zodat sneller duidelijk is dat je erop kunt klikken.
+
+Ook de boekcovers op de boekenpagina mochten duidelijker laten zien dat ze interactief zijn. De covers waren wel klikbaar, maar dit was nog niet meteen zichtbaar voordat je er met de muis overheen ging.
+
+Daarnaast kreeg ik feedback over bronvermelding. Voor afbeeldingen die ik niet zelf heb gemaakt, moet duidelijk vermeld worden waar deze vandaan komen. Daarom wil ik een aparte bronnenpagina toevoegen en vanuit de footer naar deze pagina linken.
+
+
+
+![Peerfeedback formulier](readme-images/21oktober1.jpeg)
+![Peerfeedback formulier](readme-images/21oktober2.jpeg)
+
+
+
+
+
+
+
 
 
 ## Maandag 19 Oktober
@@ -30,24 +88,7 @@ De kleuren en de vormgeving pasten goed bij elkaar.
 
 
 
-## Woensdag 21 Oktober
 
-
-
-![Peerfeedback formulier](readme-images/21oktober1.jpeg)
-![Peerfeedback formulier](readme-images/21oktober2.jpeg)
-
-
-
-
-## Woensdag 21 Oktober
-
-
-
-![bwg3](readme-images/bwg3.jpeg)
-
-
-## Donderdag 22 Oktober
 
 
 
