@@ -262,8 +262,14 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 ### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README. Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
+## Dialogs – Deep Dive
 
+Ik heb de oefeningen over dialogs op CodePen gemaakt. Hierbij heb ik geleerd hoe ik met `<dialog>` een venster kan maken en met `showModal()`, `show()` en `close()` kan openen en sluiten.
 
+Ook heb ik gewerkt met `commandfor`, `method="dialog"` en `::backdrop` om dialogs te openen, te sluiten en vorm te geven. Met JavaScript en `classList.add()` en `remove()` heb ik geoefend met het veranderen van kleuren en lay-outs via buttons.
+![oefening](readme-images/dialog1.png)
+![oefening](readme-images/dialog2.png)
+![oefening](readme-images/dialog3.png)
 ## Buttons –Deep dive
 
 Ik heb verschillende oefeningen op CodePen gemaakt met buttons en JavaScript. Hierbij heb ik geleerd hoe ik met `onclick` functies kan aanroepen en met `document.querySelector()` elementen kan selecteren. Ook heb ik geoefend met `classList.add()`, `remove()` en `toggle()` om classes te veranderen.
@@ -286,7 +292,7 @@ Met CSS heb ik geleerd hoe ik elementen kan aanpassen, animaties kan starten en 
 Ik heb de oefeningen op CodePen gemaakt. Hierbij heb ik geleerd hoe ik buttons kan stylen met verschillende states, zoals `:hover`, `:active` en `:focus-visible`.
 
 Ook heb ik geoefend met CSS-selectors en het gebruik van `::before` en `::after` om extra inhoud aan buttons toe te voegen.
-![oefening](readme-images/buttons.png.png)
+![oefening](readme-images/buttons.png)
 
 ### Check-out – 21 september
 
