@@ -89,10 +89,13 @@ Bij Mijn Album heb ik mijn eigen foto’s toegevoegd en de pagina persoonlijker 
 ![Update na feedback](readme-images/update6.png)
 
 
-![Update na feedback](readme-images/update.png)
+![Update na feedback](readme-images/update2.png)
 
 
+![Update na feedback](readme-images/update7.png)
 
+
+![Update na feedback](readme-images/update8.png)
 
 
 
