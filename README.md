@@ -38,7 +38,7 @@ Noem drie manieren om chaos in je ontwerp te voorkomen.
 Hoeveel gekkigheid moet er in je werk zitten?
 
 
-![Uitwerking in HTML en CSS](assets/7oktober.jpg)
+![Uitwerking in HTML en CSS](images/readme-images/7oktober.jpg)
 ![Uitwerking in HTML en CSS](assets/7oktober1.jpg)
 ![Uitwerking in HTML en CSS](assets/7oktober2.jpg)
 ![Uitwerking in HTML en CSS](assets/7oktober3.jpg)
