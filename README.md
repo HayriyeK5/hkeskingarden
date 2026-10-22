@@ -270,12 +270,12 @@ Ik heb verschillende oefeningen op CodePen gemaakt met buttons en JavaScript. Hi
 
 Met CSS heb ik geleerd hoe ik elementen kan aanpassen, animaties kan starten en buttons kan tonen of verbergen. Zo begrijp ik beter hoe HTML, CSS en JavaScript samenwerken om een website interactief te maken.
 
-![oefening](readme-images/button1.png.png)
-![oefening](readme-images/button2.png.png)
-![oefening](readme-images/button3.png.png)
-![oefening](readme-images/button4.png.png)
-![oefening](readme-images/button5.png.png)
-![oefening](readme-images/button6.png.png)
+![oefening](readme-images/button1.png)
+![oefening](readme-images/button2.png)
+![oefening](readme-images/button3.png)
+![oefening](readme-images/button4.png)
+![oefening](readme-images/button5.png)
+![oefening](readme-images/button6.png)
 
 
 
