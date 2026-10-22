@@ -262,6 +262,40 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 ### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README. Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
+## Vrijdag 25 september 
+
+
+### 25 september
+
+Tijdens het feedbackmoment heb ik aan Sanne gevraagd of ik mijn oorspronkelijke idee toch nog verder kon uitwerken. Ik merkte namelijk dat ik nog steeds liever iets met mijn centrale idee wilde doen: een concept rondom een boom onder de wilg. In plaats van een gewone dark en light mode wilde ik liever de boom in vier verschillende seizoenen laten veranderen.
+
+Ik heb daarom gevraagd hoe ik dit met CSS zou kunnen aanpakken. Sanne liet mij in CodePen een voorbeeld zien en gaf ook het idee om tekst zoals mijn h1 en h2 beter leesbaar te maken met een blur achtergrond, ook als de achtergrond drukker is.
+Daarna ben ik verder gegaan met mijn visuals. Ik heb eerst de aprilfoto van de boom die ik op Pinterest had gevonden laten omzetten naar vier seizoensversies. Ook heb ik voor mijn boek en albumpagina zachtere achtergronden laten maken, zodat het geheel rustiger werd en de hiërarchie beter zichtbaar bleef.
+Vervolgens heb ik deze beelden met code in mijn eigen website toegepast. Daardoor kwam mijn uitwerking al veel dichter bij het concept dat ik vanaf het begin in mijn hoofd had.
+
+![Spiraal inspiratie](readme-images/11-september-spiral.jpg)
+![Winter](readme-images/winter.png)
+![Lente](readme-images/lente.png)
+![Zommer](readme-images/zomer.png)
+![Herfst](readme-images/herfst.png)
+![Album](readme-images/album.png)
+![Books](readme-images/books.png)
+
+
+
+
+## Woensdag 23 september
+
+Vandaag kon ik niet bij de les zijn. Ik heb Diederik hierover een bericht gestuurd via Teams. Thuis heb ik aan mijn huiswerk gewerkt en schetsen gemaakt voor de cookiepop-up van mijn website.
+Ik wilde mijn cookiepop-up persoonlijker maken en laten passen bij het concept van mijn Garden. Daarom heb ik gekozen om het favoriete seizoen van de bezoeker te onthouden. De vier seizoenen spelen een belangrijke rol in mijn website en zo kan de bezoeker bij een volgend bezoek dezelfde sfeer terugzien.
+
+![schetsen](readme-images/cookie.jpeg)
+
+
+
+
+
+
 ## Dialogs – Deep Dive
 
 Ik heb de oefeningen over dialogs op CodePen gemaakt. Hierbij heb ik geleerd hoe ik met `<dialog>` een venster kan maken en met `showModal()`, `show()` en `close()` kan openen en sluiten.
