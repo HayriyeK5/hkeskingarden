@@ -1,4 +1,57 @@
-## Herfstvakantie 
+
+
+
+## Maandag 19 Oktober
+
+
+![Webby](readme-images/webby.jpeg)
+
+
+
+
+
+
+
+
+
+
+Feedbackmoment – Lars
+
+Tijdens het uploaden van mijn songtekstopdracht naar GitHub kreeg ik een merge conflict. Hierdoor kon ik mijn wijzigingen niet uploaden en was mijn website niet online beschikbaar. Justus heeft mij geholpen om dit probleem op te lossen.
+
+Omdat mijn website tijdens het feedbackmoment niet online stond, heb ik mijn pagina aan Lars laten zien met screenshots.
+
+Feedback van Lars
+Hij vond mijn thema mooi en persoonlijk.
+De visuele hiërarchie was duidelijk en goed toegepast.
+De kleuren en de vormgeving pasten goed bij elkaar.
+
+![Conflict](readme-images/conflict.png)
+![Peerfeedback formulier](readme-images/21oktober1.jpeg)
+![Peerfeedback formulier](readme-images/21oktober2.jpeg)
+
+
+
+
+## Woensdag 21 Oktober
+
+
+
+![bwg3](readme-images/bwg3.jpeg)
+
+
+## Donderdag 22 Oktober
+
+
+
+
+
+
+
+
+
+
+## Herfstvakantie (12-16 Oktober)
 
 Na de feedback van Diederik heb ik tijdens de herfstvakantie een paar onderdelen van mijn website aangepast.
 
@@ -19,11 +72,22 @@ Bij het laatste gedeelte heb ik het idee van verdwijnen verder uitgewerkt. De zi
 De snellere stukken heb ik kleiner en compacter gemaakt met font-size, letter-spacing en word-spacing. Daardoor worden deze zinnen sneller gelezen.
 Ook heb ik een lichtblauwe achtergrond en donkerblauwe tekst toegevoegd. Dit past voor mij bij de rustige en dromerige sfeer van het nummer. De tekst wordt richting het einde steeds lichter, zodat het gevoel van vergeten nog duidelijker wordt.
 Tot slot heb ik de tekst in HTML iets aangepast, zodat zinnen niet onnodig met “En” beginnen. De indeling en het ontwerp zijn daarbij hetzelfde gebleven.
+
 ![Songtekst na feedback](readme-images/songtekst1.png)
+
+
 ![Verdwijnend einde](readme-images/songtekst2.png)
+
+
 ![Songtekst na feedback](readme-images/songtekst3.png)
+
+
 ![Songtekst na feedback](readme-images/songtekst1.png)
+
+
 ![Verdwijnend einde](readme-images/codesongtekst.png)
+
+
 ## Feedback 9 oktober – Diederik
 
 Op 9 oktober heb ik feedback gekregen van Diederik. Hij vond dat er nog te veel witruimte tussen de verschillende delen van de songtekst zat. Hierdoor voelde de pagina op sommige plekken te los en onderbroken. Hij adviseerde mij om de afstanden kleiner te maken, zodat de tekst meer als één geheel voelt.
@@ -262,24 +326,63 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 ### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README. Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
+
+
+## Maandag 28 september 
+
+
+![bwg2](readme-images/bwg2.jpeg)
+![bwg2](readme-images/bwg22.jpeg)
+
 ## Vrijdag 25 september 
 
+Tijdens het feedbackmoment met Sanne vertelde ik dat ik toch terug wilde naar mijn oorspronkelijke idee. Ik wilde de boom centraal zetten in mijn website. In plaats van een gewone dark en light mode wilde ik laten zien hoe dezelfde boom verandert tijdens de vier seizoenen.
 
-### 25 september
+Ik vroeg Sanne hoe ik dit met CSS kon maken. Ze liet mij een voorbeeld zien in CodePen. Ook gaf ze mij het idee om een blur-effect achter mijn `h1` en `h2` te gebruiken, zodat de tekst leesbaar blijft bij een drukke achtergrond.
 
-Tijdens het feedbackmoment heb ik aan Sanne gevraagd of ik mijn oorspronkelijke idee toch nog verder kon uitwerken. Ik merkte namelijk dat ik nog steeds liever iets met mijn centrale idee wilde doen: een concept rondom een boom onder de wilg. In plaats van een gewone dark en light mode wilde ik liever de boom in vier verschillende seizoenen laten veranderen.
+Daarna heb ik een afbeelding van een spiraalvormige boom op Pinterest als inspiratie gebruikt. Met AI heb ik vier verschillende seizoensachtergronden laten genereren. Ook heb ik voor mijn boeken- en albumpagina's rustigere achtergronden laten maken, zodat de inhoud beter opvalt.
 
-Ik heb daarom gevraagd hoe ik dit met CSS zou kunnen aanpakken. Sanne liet mij in CodePen een voorbeeld zien en gaf ook het idee om tekst zoals mijn h1 en h2 beter leesbaar te maken met een blur achtergrond, ook als de achtergrond drukker is.
-Daarna ben ik verder gegaan met mijn visuals. Ik heb eerst de aprilfoto van de boom die ik op Pinterest had gevonden laten omzetten naar vier seizoensversies. Ook heb ik voor mijn boek en albumpagina zachtere achtergronden laten maken, zodat het geheel rustiger werd en de hiërarchie beter zichtbaar bleef.
-Vervolgens heb ik deze beelden met code in mijn eigen website toegepast. Daardoor kwam mijn uitwerking al veel dichter bij het concept dat ik vanaf het begin in mijn hoofd had.
+Vervolgens heb ik de gegenereerde afbeeldingen met HTML en CSS in mijn website verwerkt. Hierdoor kwam mijn website eindelijk dichter bij het concept dat ik vanaf het begin wilde maken.
+
+
+
 
 ![Spiraal inspiratie](readme-images/11-september-spiral.jpg)
+
+
 ![Winter](readme-images/winter.png)
+
+
 ![Lente](readme-images/lente.png)
+
+
 ![Zommer](readme-images/zomer.png)
+
+
 ![Herfst](readme-images/herfst.png)
+
+
 ![Album](readme-images/album.png)
+
+
 ![Books](readme-images/books.png)
+
+
+
+
+
+
+
+### Check-out 
+
+ Wat is HTML-validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+  Met HTML-validatie controleer je of er fouten in je HTML-code zitten. Dit is belangrijk zodat je website goed werkt. Ik heb geleerd dat ik hiervoor de W3C Validator kan gebruiken.
+
+ Welke dingen vielen je op?
+  Ik merkte dat kleine fouten in de code al problemen kunnen veroorzaken. Ook vond ik het interessant dat ik met CSS veel meer kan doen dan ik eerst dacht.
+
+Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+  Sanne vond mijn oorspronkelijke idee met de boom interessant. Ze liet mij in CodePen zien hoe ik met CSS verschillende achtergronden kon gebruiken. Ook gaf ze als tip om een blur-effect achter mijn tekst te gebruiken, zodat deze beter leesbaar blijft.
 
 
 
