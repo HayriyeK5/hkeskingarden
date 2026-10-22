@@ -55,12 +55,11 @@ Voor deze opdracht heb ik het nummer Voor ik vergeet van Spinvis gekozen.
 
 Ik heb eerst goed naar het nummer geluisterd en daarna 12 verschillende schetsen gemaakt. In de schetsen heb ik vooral gekeken naar het ritme, de herhaling, de snelheid van de tekst en de rustige sfeer van het nummer.
 
-![Schetsen 1 en 2](images/readme-images//6oktober1.jpg)
-![Schetsen 3 en 4](images/readme-images//6oktober2.jpg)
-![Schetsen 5 en 6](images/readme-images//6oktober3.jpg)
-![Schetsen 7 en 8](images/readme-images//6oktober4.jpg)
-![Schetsen 9 en 10](images/readme-images//6oktober5.jpg)
-![Schetsen 11 en 12](images/readme-images//6oktober6.jpg)
+![Schetsen 1 en 2](readme-images//6oktober2.jpg)
+![Schetsen 5 en 6](readme-images//6oktober3.jpg)
+![Schetsen 7 en 8](readme-images//6oktober4.jpg)
+![Schetsen 9 en 10](readme-images//6oktober5.jpg)
+![Schetsen 11 en 12](readme-images//6oktober6.jpg)
 
 ### Mijn idee
 
@@ -135,9 +134,9 @@ Tijdens Sprint 2 heb ik mijn oorspronkelijke idee weer opgepakt. Door feedback, 
 
 De vier thema’s, de persoonlijke inhoud en de aangepaste vormgeving zorgen ervoor dat Onder de Wilg nu veel meer als mijn eigen digitale plek voelt.
 
-![Retrospect 2](images/readme-images//2oktober1.jpg)
+![Retrospect 2](readme-images/2oktober1.jpg)
 
-![Piek- en daltekening Sprint 2](images/readme-images//2oktober2.jpg)
+![Piek- en daltekening Sprint 2](readme-images/2oktober2.jpg)
 
 Aan het begin van deze sprint was ik nog op zoek naar de juiste uitwerking van mijn concept.
 
@@ -159,7 +158,7 @@ Evalueren: Ik heb feedback gebruikt om mijn website te verbeteren en de toeganke
 
  Metafoor – Langzaam maar zeker vooruit
 
-![Metafoor Sprint 2](images/readme-images//2oktober3.jpg)
+![Metafoor Sprint 2](readme-images/2oktober3.jpg)
 
 Voor deze retrospect koos ik een schildpad als metafoor.
 
@@ -200,13 +199,13 @@ De boektitels zagen eerst uit als buttons, terwijl ze niet klikbaar waren. Daaro
 
 ### Before - boekenpagina
 
-![Boekenpagina voor de aanpassingen](images/readme-images//before-boeken.png)
+![Boekenpagina voor de aanpassingen](readme-images/before-boeken.png)
 
 De boekenpagina had nog tijdelijke titels en de boektitels leken op buttons.
 
 ### After - boekenpagina
 
-![Boekenpagina na de aanpassingen](images/readme-images//after-boeken.png)
+![Boekenpagina na de aanpassingen](readme-images/after-boeken.png)
 
 Ik heb mijn echte favoriete boeken toegevoegd, de alt-teksten duidelijker gemaakt en de boeken in een grid gezet.
 
@@ -220,13 +219,13 @@ De links op de homepage leken eerst veel op buttons.
 
 ### After - homepage
 
-![Homepage na de aanpassingen](./images/readme-images//after-homepage.png)
+![Homepage na de aanpassingen](images/readme-images/after-homepage.png)
 
 Ik heb de links aangepast zodat ze duidelijker als links herkenbaar zijn.
 
 Daarna ben ik begonnen met mijn albumpagina. Voor de eerste versie heb ik drie eigen foto's gekozen. De foto's staan naast elkaar in een grid en ik heb bij elke foto een beschrijvende alt-tekst toegevoegd, zodat de afbeeldingen ook duidelijk zijn voor een screenreader.
 
-![Eerste versie van mijn albumpagina](./images/readme-images//album-eerste-versie.png)
+![Eerste versie van mijn albumpagina](readme-images//album-eerste-versie.png)
 
 Ik wil later nog meer foto's toevoegen en de albumpagina verder uitbreiden.
 
