@@ -39,12 +39,12 @@ Hoeveel gekkigheid moet er in je werk zitten?
 
 
 ![Uitwerking in HTML en CSS](images/readme-images/7oktober.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober1.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober2.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober3.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober4.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober5.jpg)
-![Uitwerking in HTML en CSS](assets/7oktober6.jpg)
+![Uitwerking in HTML en CSS](images/readme-images/7oktober1.jpg)
+![Uitwerking in HTML en CSS](images/readme-images/7oktober2.jpg)
+![Uitwerking in HTML en CSS](images/readme-images7oktober3.jpg)
+![Uitwerking in HTML en CSS](images/readme-images//7oktober4.jpg)
+![Uitwerking in HTML en CSS](images/readme-images//7oktober5.jpg)
+![Uitwerking in HTML en CSS](images/readme-images//7oktober6.jpg)
 
 ## 5 oktober
 
@@ -55,12 +55,12 @@ Voor deze opdracht heb ik het nummer Voor ik vergeet van Spinvis gekozen.
 
 Ik heb eerst goed naar het nummer geluisterd en daarna 12 verschillende schetsen gemaakt. In de schetsen heb ik vooral gekeken naar het ritme, de herhaling, de snelheid van de tekst en de rustige sfeer van het nummer.
 
-![Schetsen 1 en 2](assets/6oktober1.jpg)
-![Schetsen 3 en 4](assets/6oktober2.jpg)
-![Schetsen 5 en 6](assets/6oktober3.jpg)
-![Schetsen 7 en 8](assets/6oktober4.jpg)
-![Schetsen 9 en 10](assets/6oktober5.jpg)
-![Schetsen 11 en 12](assets/6oktober6.jpg)
+![Schetsen 1 en 2](images/readme-images//6oktober1.jpg)
+![Schetsen 3 en 4](images/readme-images//6oktober2.jpg)
+![Schetsen 5 en 6](images/readme-images//6oktober3.jpg)
+![Schetsen 7 en 8](images/readme-images//6oktober4.jpg)
+![Schetsen 9 en 10](images/readme-images//6oktober5.jpg)
+![Schetsen 11 en 12](images/readme-images//6oktober6.jpg)
 
 ### Mijn idee
 
@@ -135,9 +135,9 @@ Tijdens Sprint 2 heb ik mijn oorspronkelijke idee weer opgepakt. Door feedback, 
 
 De vier thema’s, de persoonlijke inhoud en de aangepaste vormgeving zorgen ervoor dat Onder de Wilg nu veel meer als mijn eigen digitale plek voelt.
 
-![Retrospect 2](assets/2oktober1.jpg)
+![Retrospect 2](images/readme-images//2oktober1.jpg)
 
-![Piek- en daltekening Sprint 2](assets/2oktober2.jpg)
+![Piek- en daltekening Sprint 2](images/readme-images//2oktober2.jpg)
 
 Aan het begin van deze sprint was ik nog op zoek naar de juiste uitwerking van mijn concept.
 
@@ -159,7 +159,7 @@ Evalueren: Ik heb feedback gebruikt om mijn website te verbeteren en de toeganke
 
  Metafoor – Langzaam maar zeker vooruit
 
-![Metafoor Sprint 2](assets/2oktober3.jpg)
+![Metafoor Sprint 2](images/readme-images//2oktober3.jpg)
 
 Voor deze retrospect koos ik een schildpad als metafoor.
 
@@ -200,13 +200,13 @@ De boektitels zagen eerst uit als buttons, terwijl ze niet klikbaar waren. Daaro
 
 ### Before - boekenpagina
 
-![Boekenpagina voor de aanpassingen](./assets/before-boeken.png)
+![Boekenpagina voor de aanpassingen](images/readme-images//before-boeken.png)
 
 De boekenpagina had nog tijdelijke titels en de boektitels leken op buttons.
 
 ### After - boekenpagina
 
-![Boekenpagina na de aanpassingen](./assets/after-boeken.png)
+![Boekenpagina na de aanpassingen](images/readme-images//after-boeken.png)
 
 Ik heb mijn echte favoriete boeken toegevoegd, de alt-teksten duidelijker gemaakt en de boeken in een grid gezet.
 
@@ -214,19 +214,19 @@ Op de homepage heb ik de links naar `Mijn favoriete boeken` en `Momenten door mi
 
 ### Before - homepage
 
-![Homepage voor de aanpassingen](./assets/before-homepage.png)
+![Homepage voor de aanpassingen](images/readme-images//before-homepage.png)
 
 De links op de homepage leken eerst veel op buttons.
 
 ### After - homepage
 
-![Homepage na de aanpassingen](./assets/after-homepage.png)
+![Homepage na de aanpassingen](./images/readme-images//after-homepage.png)
 
 Ik heb de links aangepast zodat ze duidelijker als links herkenbaar zijn.
 
 Daarna ben ik begonnen met mijn albumpagina. Voor de eerste versie heb ik drie eigen foto's gekozen. De foto's staan naast elkaar in een grid en ik heb bij elke foto een beschrijvende alt-tekst toegevoegd, zodat de afbeeldingen ook duidelijk zijn voor een screenreader.
 
-![Eerste versie van mijn albumpagina](./assets/album-eerste-versie.png)
+![Eerste versie van mijn albumpagina](./images/readme-images//album-eerste-versie.png)
 
 Ik wil later nog meer foto's toevoegen en de albumpagina verder uitbreiden.
 
@@ -283,8 +283,8 @@ Ook had mijn website op dat moment nog geen echte thema's. In de volgende sprint
 
 Daarnaast ga ik Google Fonts vervangen door een lokaal lettertype met `@font-face`.
 
-![Retrospect 1](assets/18september1.jpg)
-![Piek- en daltekening](assets/18september2.jpg)
+![Retrospect 1](images/readme-images//18september1.jpg)
+![Piek- en daltekening](images/readme-images//18september2.jpg)
 
 Aan het begin was ik nieuwsgierig en deed ik veel visual research. Ik onderzocht verschillende ideeën, maar ik had nog geen duidelijk concept.
 
@@ -292,7 +292,7 @@ Daarna begon ik te twijfelen over welke richting ik wilde kiezen. Ik had veel id
 
 Na het krijgen van feedback begon mijn richting langzaam duidelijker te worden. Ik kon opnieuw naar mijn ideeën kijken en beter bepalen wat ik in de volgende sprint wilde verbeteren.
 
-![Metafoor ijsberg](assets/18september3.jpg)
+![Metafoor ijsberg](images/readme-images//18september3.jpg)
 Voor mijn retrospect heb ik een ijsberg gebruikt als metafoor.
 
 Boven water staan de dingen die zichtbaar waren, zoals mijn nieuwsgierigheid, ideeën en visual research.
@@ -331,7 +331,7 @@ Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar n
 
 ### 14 september
 
-![Spiraal inspiratie](assets/11-september-spiral.jpg)
+![Spiraal inspiratie](.images/readme-images/11-september-spiral.jpg)
 
 *Dit beeld heb ik op Pinterest gevonden als inspiratie voor mijn nieuwe concept.*
 
@@ -394,15 +394,15 @@ Uit deze beelden heb ik kenmerken gehaald zoals vloeiend, bewegend, herhaling, v
 
 Als laatste heb ik mijn schetsen beoordeeld op punten zoals toegankelijkheid, interactie, expressie en of het verrassend genoeg was. Zo kon ik beter zien welke ideeën ik verder wil gebruiken voor mijn Digital Garden.
 
-![Sfeerwoord](assets/09-september-sfeerwoord.jpg)
+![Sfeerwoord](images/readme-images/09-september-sfeerwoord.jpg)
 
-![Pinterest onderzoek](assets/09-september-pinterest.jpg)
+![Pinterest onderzoek](images/readme-images/09-september-pinterest.jpg)
 
-![Abstract visueel onderzoek](assets/09-september-abstract.jpg)
+![Abstract visueel onderzoek](images/readme-images/09-september-abstract.jpg)
 
-![Schetsen](assets/09-september-schetsen.jpg)
+![Schetsen](images/readme-images//09-september-schetsen.jpg)
 
-![Beoordeling](assets/09-september-beoordeling.jpg)
+![Beoordeling](images/readme-images/09-september-beoordeling.jpg)
 
 ### Check-out
 
