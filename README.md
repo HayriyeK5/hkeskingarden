@@ -263,6 +263,43 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 ### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README. Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
 
+
+## Buttons –Deep dive
+
+Ik heb verschillende oefeningen op CodePen gemaakt met buttons en JavaScript. Hierbij heb ik geleerd hoe ik met `onclick` functies kan aanroepen en met `document.querySelector()` elementen kan selecteren. Ook heb ik geoefend met `classList.add()`, `remove()` en `toggle()` om classes te veranderen.
+
+Met CSS heb ik geleerd hoe ik elementen kan aanpassen, animaties kan starten en buttons kan tonen of verbergen. Zo begrijp ik beter hoe HTML, CSS en JavaScript samenwerken om een website interactief te maken.
+
+![oefening](readme-images/button1.png.png)
+![oefening](readme-images/button2.png.png)
+![oefening](readme-images/button3.png.png)
+![oefening](readme-images/button4.png.png)
+![oefening](readme-images/button5.png.png)
+![oefening](readme-images/button6.png.png)
+
+
+
+
+
+## Buttons, States en Selectors – Deep Dive
+
+Ik heb de oefeningen op CodePen gemaakt. Hierbij heb ik geleerd hoe ik buttons kan stylen met verschillende states, zoals `:hover`, `:active` en `:focus-visible`.
+
+Ook heb ik geoefend met CSS-selectors en het gebruik van `::before` en `::after` om extra inhoud aan buttons toe te voegen.
+![oefening](readme-images/buttons.png.png)
+
+### Check-out – 21 september
+
+Wat zijn HTML landmark role elements?
+  Dit zijn HTML-elementen zoals `header`, `nav`, `main` en `footer`. Ze geven structuur aan een website en helpen screenreaders om de pagina beter te begrijpen.
+
+ Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+  Heading elementen zijn koppen van `h1` tot `h6`. `h1` is de belangrijkste titel, daarna komen `h2`, `h3` enzovoort. Je moet de juiste volgorde gebruiken en geen niveaus overslaan.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+  Eerst dacht ik niet veel na over cookies. Na dit college begrijp ik beter hoe belangrijk privacy is. Ik wil bezoekers zelf laten kiezen of ze cookies accepteren of weigeren. Mijn mening is dus wel veranderd.
+
+
 ## 18 september – Feedback Sprint 1 + Retrospect
 
 Aan het einde van sprint 1 kreeg ik feedback van Sanne op mijn Digital Garden.
