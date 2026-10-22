@@ -496,7 +496,10 @@ body.album {
 }
 
 
-
+body.bronnen {
+    background: #faf8f4;
+    background-image: none;
+}
 
 .bronnen main {
     max-width: 1100px;
