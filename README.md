@@ -328,7 +328,8 @@ Daarom heb ik besloten om terug te gaan naar een simpelere basis. Ik heb gekozen
 
 Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar nog steeds ruimte geeft om later mijn eigen stijl, foto's, boeken en andere persoonlijke dingen toe te voegen.
 
-
+![Website2](readme-images/eersteversie.png)
+![Website1](readme-images/11-eersteversie1.png)
 
 ### 14 september
 
@@ -336,15 +337,34 @@ Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar n
 
 *Dit beeld heb ik op Pinterest gevonden als inspiratie voor mijn nieuwe concept.*
 
-Checkout
-
 Ik kreeg als feedback dat mijn eerste idee met de boom en de boeken wat te druk en ingewikkeld was. Daarom ben ik opnieuw gaan kijken naar mijn concept en heb ik het simpeler gemaakt met de boom en klikbare spiralen.
+
+### Check-out
+
+Wanneer wordt een website lelijk?
+Een website wordt lelijk als er te veel kleuren, verschillende lettertypes of te veel dingen op één plek staan. Ik vind het belangrijk dat een website rustig en overzichtelijk is. Dit kan ik verbeteren door kleuren goed te combineren en genoeg witruimte te gebruiken.
+ Hoe wil ik mijn website responsive maken?
+Ik wil ervoor zorgen dat mijn website er op een telefoon en computer goed uitziet. Hiervoor wil ik later media queries gebruiken en de layout aanpassen aan verschillende schermgroottes.
+
+Hoe wil ik mijn Garden ontwerpen en bouwen?
+Ik wil een persoonlijke website maken waar ik mijn interesses en herinneringen kan delen. Ik wil HTML gebruiken voor de structuur en CSS voor de vormgeving. Mijn idee is om een rustige en natuurlijke sfeer te creëren met passende kleuren, afbeeldingen en een overzichtelijke layout.
+
    
+## Grid 101 – Deep Dive
+
+Ik heb de oefeningen van Grid 101 op CodePen gemaakt. Hierbij heb ik geoefend met `display: grid`, `grid-template-columns`, `gap`, `fr` en `repeat()`.
+Door verschillende waardes uit te proberen, heb ik geleerd hoe ik elementen met CSS Grid kan indelen en een responsive layout kan maken. 
+
+![oefening](readme-images/grid101.png)
+![oefening](readme-images/grid1011.png)
+![oefening](readme-images/grid1012.png)
+![oefening](readme-images/grid1013png)
 
 ## Learning Log
 Op 11 september heb ik mijn README gekoppeld aan VSCodium. Daarna ben ik mijn Learning Log ook voor de eerdere dagen gaan invullen. Ik probeer alles nog terug te halen, maar er missen nog een paar dingen 
 
 ### 11 september
+![Schetsen](readme-images/schetsen.jpeg)
 
 Vandaag heb ik verder nagedacht over het concept van mijn Digital Garden. Mijn eerste idee was om te werken met een groot beeld van een boom, waarin ik boeken wilde plaatsen. Ik dacht eraan om de boeken klikbaar te maken en de pagina’s als het ware om te slaan, zodat de bezoeker per boek iets kon lezen of ontdekken. Op die manier wilde ik verschillende onderdelen van mijn Garden laten zien.
 
@@ -439,7 +459,7 @@ Daarna hebben we verschillende persoonlijke websites bekeken en beoordeeld op pu
 5-Leuk/verrassend: ja, omdat je steeds nieuwe kleine dingen tegenkomt.
 
 
-Checkout
+### Check-out
 
 1.Een digital garden is een persoonlijke website waar je ideeën, interesses en dingen die je leert kunt verzamelen. Het verschil met een gewone website is dat niet alles af hoeft te zijn. Je kunt dingen later veranderen en verder ontwikkelen.
 
