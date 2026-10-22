@@ -260,7 +260,7 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 
 
-### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README.Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
+### Door een paar problemen heb ik mijn learning log tussen deze twee data niet goed kunnen bijwerken. In deze periode heb ik wel verder gewerkt aan mijn website, maar ik heb niet alles meteen kunnen toevoegen aan mijn README. Ik wil deze ontbrekende stappen zo snel mogelijk aanvullen en mijn learning log weer helemaal bijwerken.
 
 
 ## 18 september – Feedback Sprint 1 + Retrospect
@@ -314,6 +314,86 @@ In sprint 2 wil ik:
 - Google Fonts vervangen door `@font-face`.
 
 
+### Check-out – 18 september
+
+- Waarom geven de docenten deze opdracht?
+  Om beter te leren werken met HTML en CSS en zelf een persoonlijke website te maken.
+
+- Welke technieken gebruik ik?
+  Ik gebruik HTML voor de structuur en CSS voor de vormgeving.
+
+- Wat zijn de randvoorwaarden?
+  Mijn website moet toegankelijk zijn en goed werken op verschillende schermen. Ik moet ook rekening houden met mijn tijd en kennis.
+
+- Waar gebruik je HTML/CSS voor?
+  Met HTML maak ik de inhoud en structuur. Met CSS pas ik kleuren, lettertypes en de layout aan.
+
+- Wat kan er allemaal met CSS?
+  Met CSS kan ik veel veranderen, zoals kleuren, afstanden, achtergronden en animaties. Ik moet nog veel ontdekken.
+
+- Lukt het om verschillende ideeën te bedenken?
+  Ja, ik had veel ideeën en heb visual research gedaan. Maar ik vond het moeilijk om één richting te kiezen.
+
+- Lukt het om je ideeën te schetsen?
+  Ik heb geprobeerd mijn ideeën visueel uit te werken, maar het was lastig om ze daarna met code te maken.
+
+- Wat doet deze CSS-property?
+  Ik probeer verschillende CSS-properties uit om te zien wat ze doen. Soms werkt iets anders dan ik had verwacht.
+
+- Welke content en HTML heb ik nodig?
+  Ik wil mijn interesses, foto's en persoonlijke verhalen delen. Hiervoor heb ik onder andere een header, navigatie, afbeeldingen en sections nodig.
+
+- Hoe kan ik dit soort content vormgeven?
+  Ik wil rustige kleuren, passende afbeeldingen en genoeg witruimte gebruiken.
+
+- Wat als ik hier nu eens 1000 invul?
+  Ik merk dat ik vaak voorzichtig ben met CSS. Ik wil meer experimenteren met verschillende waardes.
+
+- Begrijpen bezoekers de site?
+  Mijn website is nog vrij eenvoudig en overzichtelijk, maar mijn oorspronkelijke concept is nog niet duidelijk zichtbaar.
+
+- Wat vindt de opdrachtgever ervan?
+  Sanne vond mijn oorspronkelijke idee met de wilg interessant, maar mijn website was nog te algemeen.
+
+- Werkt dit wel?
+  De basis van mijn website werkt, maar sommige ideeën zijn moeilijker te maken dan ik dacht.
+
+- Oooooh, kan dit ook?!
+  Ik ontdek steeds nieuwe mogelijkheden met CSS. Ik vind het leuk om dingen uit te proberen.
+
+- Wat wilde ik weten/bereiken?
+  Ik wilde mijn idee van Onder de Wilg omzetten naar een persoonlijke website.
+
+- Wat heb ik gedaan?
+  Ik heb visual research gedaan, verschillende ideeën onderzocht en een eerste versie van mijn website gemaakt.
+
+- Wat was het resultaat?
+  Ik heb een werkende basis, maar mijn website lijkt nog niet op wat ik oorspronkelijk wilde maken.
+
+- Wat weet ik nu (niet)?
+  Ik begrijp HTML en CSS steeds beter, maar ik vind het nog moeilijk om mijn ideeën precies zo uit te werken als ik wil.
+
+- Wat vond ik (niet) leuk?
+  Ik vond het leuk om ideeën te bedenken en inspiratie te zoeken. Het coderen vond ik soms frustrerend omdat niet alles lukte.
+
+- Voldoet het nog aan de eisen?
+  Nog niet helemaal. Ik moet mijn website persoonlijker en toegankelijker maken.
+
+- HTML-validatie
+  Ik moet mijn HTML nog beter controleren en kijken of ik de juiste elementen gebruik.
+
+- Toegankelijkheids-check
+  Ik moet nog controleren of mijn website goed werkt met het toetsenbord en een screenreader.
+
+- Is mijn website nog wel adaptief?
+  Nog niet helemaal. Ik wil in de volgende sprint werken aan responsive design en verschillende thema's.
+
+- Voldoet mijn website nog wel aan de wet?
+  Ik heb geleerd dat ik Google Fonts niet mag gebruiken voor deze opdracht. Daarom wil ik overstappen op lokale fonts met `@font-face`.
+
+- Zie ik mezelf nog wel terug in wat ik doe?
+  Nog niet genoeg. Mijn website is nu vrij algemeen. Ik wil terug naar mijn oorspronkelijke idee en de wilg weer centraal zetten.
+
 
 
 
@@ -329,7 +409,30 @@ Daarom heb ik besloten om terug te gaan naar een simpelere basis. Ik heb gekozen
 Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar nog steeds ruimte geeft om later mijn eigen stijl, foto's, boeken en andere persoonlijke dingen toe te voegen.
 
 ![Website2](readme-images/eersteversie.png)
-![Website1](readme-images/11-eersteversie1.png)
+![Website1](readme-images/eersteversie1.png)
+
+### Check-out
+Wanneer wordt een website lelijk?
+Een website wordt lelijk als de kleuren niet bij elkaar passen of als de onderdelen rommelig staan. Ik probeer daarom rustige kleuren te kiezen en genoeg ruimte tussen de onderdelen te laten. Ook wil ik zorgen dat de tekst goed leesbaar blijft.
+
+Wat is mijn volgende stap om mijn website responsive te maken?
+Ik ben begonnen met de basis van mijn website. Mijn volgende stap is om met media queries te werken, zodat mijn website ook op kleinere schermen goed werkt. Ik wil ook kijken of mijn afbeeldingen en teksten zich goed aanpassen.
+
+Hoe kan ik mijn Garden onderbouwen met Webby vocabulaire?
+Ik ben bezig met het opbouwen van mijn Garden. Met HTML maak ik de structuur en met CSS pas ik de styling aan. Ik gebruik Flexbox en Grid om de layout te verdelen. Ik probeer stap voor stap mijn oorspronkelijke idee uit te werken en let daarbij op kleuren, witruimte en een duidelijke navigatie.
+
+
+
+
+## Grid Areas – Deep Dive
+
+Ik heb de oefeningen over Grid Areas op CodePen gemaakt. Hierbij heb ik geleerd hoe ik met `grid-template-areas` een layout kan indelen en met `grid-area` kan bepalen waar elk element komt te staan.
+Ik heb ook geoefend met het veranderen van de indeling, zodat de elementen op verschillende schermformaten een andere plek kunnen krijgen.
+ 
+![oefening](readme-images/gridarea1.png)
+![oefening](readme-images/gridarea2.png)
+![oefening](readme-images/gridarea3.png)
+
 
 ### 14 september
 
