@@ -27,6 +27,13 @@ De visuele hiërarchie was duidelijk en goed toegepast.
 De kleuren en de vormgeving pasten goed bij elkaar.
 
 ![Conflict](readme-images/conflict.png)
+
+
+
+## Woensdag 21 Oktober
+
+
+
 ![Peerfeedback formulier](readme-images/21oktober1.jpeg)
 ![Peerfeedback formulier](readme-images/21oktober2.jpeg)
 
@@ -62,6 +69,34 @@ De seizoenskeuze heb ik visueel aangepast zodat deze beter past bij Onder de Wil
 Op de boekenpagina heb ik mijn echte favoriete boeken toegevoegd. De covers staan nu netjes in een grid, hebben dezelfde afmetingen en zijn klikbaar. Als je op een boek klikt, opent er een dialog waarin ik later mijn eigen gedachten over het boek kan toevoegen.
 
 Bij Mijn Album heb ik mijn eigen foto’s toegevoegd en de pagina persoonlijker gemaakt. Ik heb bovenaan een korte tekst gezet waarin ik uitleg waarom ik juist deze foto’s heb gekozen en waarom deze momenten voor mij bijzonder zijn. Zo krijgt de albumpagina meer betekenis dan alleen een verzameling foto's.
+  
+
+![Update na feedback](readme-images/update.png) 
+
+
+![Update na feedback](readme-images/update1.png)
+
+
+![Update na feedback](readme-images/update3.png)
+
+
+![Update na feedback](readme-images/update4.png)
+
+
+![Update na feedback](readme-images/update5.png)
+
+
+![Update na feedback](readme-images/update6.png)
+
+
+![Update na feedback](readme-images/update.png)
+
+
+
+
+
+
+
 
 
 
@@ -99,18 +134,39 @@ Ook gaf hij aan dat sommige losse zinnen met “En” begonnen. Grammaticaal was
 Met deze feedback ben ik daarna verder gegaan met mijn ontwerp.
 ## 7 oktober
 
-Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
-Noem drie manieren om chaos in je ontwerp te voorkomen.
-Hoeveel gekkigheid moet er in je werk zitten?
-
-
 ![Uitwerking in HTML en CSS](readme-images/7oktober.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober1.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober2.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober3.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober4.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober5.jpg)
+
+
 ![Uitwerking in HTML en CSS](readme-images/7oktober6.jpg)
+
+### Check-out
+
+1. Waarom is het goed om een grid in je ontwerp toe te passen?
+   Voor de ontwerper maakt een grid het makkelijker om elementen netjes te plaatsen. Voor de bezoeker zorgt het voor een overzichtelijke website.
+
+2. Noem drie manieren om chaos in je ontwerp te voorkomen.
+   Niet te veel verschillende kleuren gebruiken.
+   Genoeg witruimte tussen elementen laten.
+   Een duidelijke hiërarchie aanbrengen.
+
+3. Hoeveel gekkigheid moet er in je werk zitten?
+   Een beetje gekkigheid maakt een ontwerp persoonlijker en interessanter. Maar niet te veel, want het moet wel overzichtelijk en makkelijk te gebruiken blijven.
+
 
 ## 5 oktober
 
@@ -165,6 +221,30 @@ Voor het laatste gedeelte heb ik de class liefde gebruikt. Hier hoor ik eerst me
 
 Door de tekst op deze manier op te delen werd mijn code ook overzichtelijker. Ik kon per gedeelte experimenteren met font-size, positie, witruimte, line-height en spacing zonder dat alles door elkaar liep.
 
+
+### Check-out
+
+1. Leg uit wat er met de volgende termen bedoeld wordt:
+   - Kerning: Ruimte tussen twee letters.
+   - Tracking: Ruimte tussen alle letters.
+   - Leading: Ruimte tussen tekstregels.
+   - Flush-left: Tekst links uitgelijnd.
+   - Flush-right: Tekst rechts uitgelijnd.
+   - Centered: Tekst in het midden.
+   - Justified: Tekst aan beide kanten uitgelijnd.
+   - Indent: Een regel die naar binnen springt.
+   - Outdent: Een regel die naar buiten springt.
+   - Modular scale: Een vaste verhouding tussen tekstgroottes.
+   - Movable type: Losse letters die vroeger gebruikt werden om te drukken.
+   - Focuspunt: Het onderdeel dat als eerste opvalt.
+   - Vijf soorten contrast: Grootte, kleur, vorm, richting en textuur.
+   - Spatial tension: Spanning door de afstand tussen elementen.
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+   Ongeveer 60 tot 70 tekens per regel. Dit vind ik prettig lezen, omdat de regels niet te lang of te kort zijn.
+
+3. Als je maar één variabele mocht gebruiken voor hiërarchie, welke zou je kiezen en waarom?
+   Ik zou grootte kiezen, omdat je hiermee makkelijk kunt laten zien wat belangrijk is. Grote titels vallen meer op dan kleine teksten.
 
 
 
@@ -332,7 +412,27 @@ Ik vind screenreader-gebruikers het lastigst. Soms ziet iets er goed uit, maar i
 
 
 ![bwg2](readme-images/bwg2.jpeg)
+
+
 ![bwg2](readme-images/bwg22.jpeg)
+    
+
+![opdracht](readme-images/28september.png)
+
+### Check-out
+
+ Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+  Volgens mij bedoelt hij dat HTML niet alleen technisch correct moet zijn, maar ook makkelijk te gebruiken voor iedereen.
+
+ Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+  Bijvoorbeeld visuele, motorische, auditieve en cognitieve beperkingen. Ook tijdelijke beperkingen, zoals een gebroken arm, kunnen invloed hebben.
+
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+ 1. Met de Tab-toets tussen links en knoppen navigeren.
+ 2. Met de H-toets van heading naar heading gaan.
+ 3. Met de D-toets tussen landmarks navigeren.
+
 
 ## Vrijdag 25 september 
 

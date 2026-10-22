@@ -97,7 +97,7 @@ body:has([value="winter"]:checked) h1 {
 	color: #536b7a;
 	background-color: rgba(220, 235, 245, 0.6);
 }
-body > main > p {
+ main p {
 	max-width: 38em;
 	margin: 1.5em auto;
 	padding: 1em 2em;
