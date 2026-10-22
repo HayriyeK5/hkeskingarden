@@ -19,9 +19,11 @@ Bij het laatste gedeelte heb ik het idee van verdwijnen verder uitgewerkt. De zi
 De snellere stukken heb ik kleiner en compacter gemaakt met font-size, letter-spacing en word-spacing. Daardoor worden deze zinnen sneller gelezen.
 Ook heb ik een lichtblauwe achtergrond en donkerblauwe tekst toegevoegd. Dit past voor mij bij de rustige en dromerige sfeer van het nummer. De tekst wordt richting het einde steeds lichter, zodat het gevoel van vergeten nog duidelijker wordt.
 Tot slot heb ik de tekst in HTML iets aangepast, zodat zinnen niet onnodig met “En” beginnen. De indeling en het ontwerp zijn daarbij hetzelfde gebleven.
-
-
-
+![Songtekst na feedback](readme-images/songtekst1.png)
+![Verdwijnend einde](readme-images/songtekst2.png)
+![Songtekst na feedback](readme-images/songtekst3.png)
+![Songtekst na feedback](readme-images/songtekst1.png)
+![Verdwijnend einde](readme-images/codesongtekst.png)
 ## Feedback 9 oktober – Diederik
 
 Op 9 oktober heb ik feedback gekregen van Diederik. Hij vond dat er nog te veel witruimte tussen de verschillende delen van de songtekst zat. Hierdoor voelde de pagina op sommige plekken te los en onderbroken. Hij adviseerde mij om de afstanden kleiner te maken, zodat de tekst meer als één geheel voelt.

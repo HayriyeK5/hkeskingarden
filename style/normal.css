@@ -39,50 +39,44 @@ body:has([value="winter"]:checked) {
 }
 
 
-
-body > form {
+form {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
 	gap: 1.2em;
-
 	margin-bottom: 2em;
 }
 
-body > form label {
+form label {
 	font-family: "Tangerine", cursive;
 	font-size: 1.8em;
 	color: #4f613c;
-	text-shadow:
-		0 0 0.15em white,
-		0 0 0.3em white;
+	text-shadow: 0 0 0.15em white;
 }
 
-body > form label:hover {
+form label:hover {
 	color: #6f8454;
 }
 
-body > form input:focus-visible {
+form input:focus-visible {
 	outline: 0.15em solid #5f7348;
 	outline-offset: 0.2em;
 }
 
-
-body > main {
+main {
 	text-align: center;
 }
 
-body > main > h1 {
+main h1 {
 	display: inline-block;
-    font-family: "Tangerine", cursive;
+	font-family: "Tangerine", cursive;
 	font-size: 6em;
 	font-weight: 400;
-    color: #8f5f6d;
-    margin: 0;
+	color: #8f5f6d;
+	margin: 0;
 	padding: 0.1em 0.6em;
-    background-color: rgba(245, 220, 230, 0.55);
+	background-color: rgba(245, 220, 230, 0.55);
 	border-radius: 0.7em;
-
 }
 body:has([value="lente"]:checked) h1 {
 	color: #8f5f6d;
