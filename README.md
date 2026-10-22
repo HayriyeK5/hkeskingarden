@@ -213,7 +213,7 @@ Op de homepage heb ik de links naar `Mijn favoriete boeken` en `Momenten door mi
 
 ### Before - homepage
 
-![Homepage voor de aanpassingen](readme-images//before-homepage.png)
+![Homepage voor de aanpassingen](readme-images/before-homepage.png)
 
 De links op de homepage leken eerst veel op buttons.
 
@@ -282,8 +282,8 @@ Ook had mijn website op dat moment nog geen echte thema's. In de volgende sprint
 
 Daarnaast ga ik Google Fonts vervangen door een lokaal lettertype met `@font-face`.
 
-![Retrospect 1](images/readme-images/18september1.jpg)
-![Piek- en daltekening](images/readme-images/18september2.jpg)
+![Retrospect 1](readme-images/18september1.jpg)
+![Piek- en daltekening](readme-images/18september2.jpg)
 
 Aan het begin was ik nieuwsgierig en deed ik veel visual research. Ik onderzocht verschillende ideeën, maar ik had nog geen duidelijk concept.
 
@@ -291,7 +291,7 @@ Daarna begon ik te twijfelen over welke richting ik wilde kiezen. Ik had veel id
 
 Na het krijgen van feedback begon mijn richting langzaam duidelijker te worden. Ik kon opnieuw naar mijn ideeën kijken en beter bepalen wat ik in de volgende sprint wilde verbeteren.
 
-![Metafoor ijsberg](images/readme-images/18september3.jpg)
+![Metafoor ijsberg](readme-images/18september3.jpg)
 Voor mijn retrospect heb ik een ijsberg gebruikt als metafoor.
 
 Boven water staan de dingen die zichtbaar waren, zoals mijn nieuwsgierigheid, ideeën en visual research.
@@ -330,7 +330,7 @@ Ik heb deze vorm gekozen omdat hij simpel genoeg is om nu goed te bouwen, maar n
 
 ### 14 september
 
-![Spiraal inspiratie](.images/readme-images/11-september-spiral.jpg)
+![Spiraal inspiratie](readme-images/11-september-spiral.jpg)
 
 *Dit beeld heb ik op Pinterest gevonden als inspiratie voor mijn nieuwe concept.*
 
@@ -393,15 +393,15 @@ Uit deze beelden heb ik kenmerken gehaald zoals vloeiend, bewegend, herhaling, v
 
 Als laatste heb ik mijn schetsen beoordeeld op punten zoals toegankelijkheid, interactie, expressie en of het verrassend genoeg was. Zo kon ik beter zien welke ideeën ik verder wil gebruiken voor mijn Digital Garden.
 
-![Sfeerwoord](images/readme-images/09-september-sfeerwoord.jpg)
+![Sfeerwoord](readme-images/09-september-sfeerwoord.jpg)
 
-![Pinterest onderzoek](images/readme-images/09-september-pinterest.jpg)
+![Pinterest onderzoek](readme-images/09-september-pinterest.jpg)
 
-![Abstract visueel onderzoek](images/readme-images/09-september-abstract.jpg)
+![Abstract visueel onderzoek](readme-images/09-september-abstract.jpg)
 
-![Schetsen](images/readme-images//09-september-schetsen.jpg)
+![Schetsen](readme-images/09-september-schetsen.jpg)
 
-![Beoordeling](images/readme-images/09-september-beoordeling.jpg)
+![Beoordeling](readme-images/09-september-beoordeling.jpg)
 
 ### Check-out
 
