@@ -1,12 +1,16 @@
-const cookieDialog = document.querySelector("#cookieDialog");
-const cookieJa = document.querySelector("#cookieJa");
-const cookieNee = document.querySelector("#cookieNee");
+const cookieDialog = document.querySelector(".cookie-dialog");
+const openCookie = document.querySelector(".open-cookie");
+const cookieJa = document.querySelector(".cookie-ja");
+const cookieNee = document.querySelector(".cookie-nee");
 
-cookieDialog.showModal();
+openCookie.onclick = openDialog;
+cookieJa.onclick = sluitDialog;
+cookieNee.onclick = sluitDialog;
 
-cookieJa.onclick = sluitCookie;
-cookieNee.onclick = sluitCookie;
+function openDialog() {
+	cookieDialog.showModal();
+}
 
-function sluitCookie() {
+function sluitDialog() {
 	cookieDialog.close();
 }

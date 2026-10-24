@@ -189,111 +189,179 @@ footer a:focus-visible {
 	outline-offset: 0.2em;
 }
 
+.open-cookie {
+	display: block;
+	margin: 2em auto 1em;
+	padding: 0;
 
-#cookieDialog {
+	background: none;
+	border: none;
+}
+
+.open-cookie img {
+	width: 4.5em;
+	height: auto;
+	display: block;
+}
+
+.open-cookie:hover img {
+	transform: scale(1.1);
+}
+
+.open-cookie:focus-visible {
+	outline: 0.15em solid #5f7348;
+	outline-offset: 0.2em;
+	border-radius: 1em;
+}
+
+
+
+
+.cookie-dialog {
 	width: 32em;
 	max-width: 90%;
 	padding: 2em;
+
 	background-image: url("../assets/dialog-bg.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+
 	border: 0.1em solid #6f7f4f;
 	border-radius: 1em;
+
 	color: #4f613c;
 	text-align: center;
 }
 
-#cookieDialog h2 {
+.cookie-dialog h2 {
 	font-family: "Tangerine", cursive;
 	font-size: 3.5em;
 	font-weight: 400;
+
 	color: #4f613c;
+
 	margin-top: 0;
 	margin-bottom: 0.4em;
+
+	text-shadow: 0 0 0.2em rgba(255, 255, 255, 0.8);
 }
 
-#cookieDialog > p {
+.cookie-dialog p {
 	line-height: 1.5;
 }
 
-#cookieDialog details {
+.cookie-dialog details {
 	margin: 1.2em 0;
 	padding: 0;
+
 	border: none;
 	background: none;
+
 	text-align: center;
 }
 
-#cookieDialog summary {
+.cookie-dialog summary {
+	display: inline-block;
+
 	color: #5f7348;
 	font-size: 1.1em;
-	padding: 0.3em 0;
+
+	padding: 0.5em 1em;
 	margin: 0;
-	border: none;
-	background: none;
-	outline: none;
+
+	background-color: rgba(255, 248, 230, 0.55);
+
+	border: 0.08em solid rgba(95, 115, 72, 0.3);
+	border-radius: 0.8em;
+
 	text-align: center;
 	list-style: none;
+
+	box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.12);
+
+	transition: 0.3s;
 }
 
-#cookieDialog summary::-webkit-details-marker {
+.cookie-dialog summary::-webkit-details-marker {
 	display: none;
 }
 
-#cookieDialog summary::before {
+.cookie-dialog summary::before {
 	content: "+ ";
 }
 
-#cookieDialog details[open] summary::before {
+.cookie-dialog details[open] summary::before {
 	content: "− ";
 }
 
-#cookieDialog summary:hover {
-	text-decoration: underline;
+.cookie-dialog summary:hover {
+	background-color: rgba(255, 248, 230, 0.8);
+
+	box-shadow:
+		0 0.3em 0.7em rgba(0, 0, 0, 0.15),
+		0 0 0.5em rgba(95, 115, 72, 0.25);
+
+	transform: scale(1.03);
 }
 
-#cookieDialog summary:focus-visible {
-	outline: none;
-	text-decoration: underline;
-	text-decoration-thickness: 0.12em;
-	text-underline-offset: 0.2em;
+.cookie-dialog summary:focus-visible {
+	outline: 0.15em solid #5f7348;
+	outline-offset: 0.2em;
 }
 
-#cookieDialog details p {
+.cookie-dialog details p {
 	max-width: 24em;
+
 	margin: 1em auto 0;
 	padding: 1em;
+
 	line-height: 1.5;
 	text-align: center;
+
 	background-color: rgba(255, 248, 230, 0.7);
+
 	border-radius: 0.8em;
+
+	box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
 }
 
-#cookieDialog button {
+.cookie-dialog button {
 	margin: 1em 0.3em 0;
 	padding: 0.5em 1.3em;
+
 	background-color: #6f8454;
 	color: white;
+
 	border: 0.1em solid #52663e;
 	border-radius: 1em;
+
 	font-family: "Tangerine", cursive;
 	font-size: 1.8em;
+
+	box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.18);
+
+	transition: 0.3s;
 }
 
-#cookieDialog button:hover {
+.cookie-dialog button:hover {
 	background-color: #5e7348;
+
+	box-shadow:
+		0 0.3em 0.7em rgba(0, 0, 0, 0.2),
+		0 0 0.5em rgba(95, 115, 72, 0.35);
+
+	transform: scale(1.05);
 }
 
-#cookieDialog button:focus-visible {
+.cookie-dialog button:focus-visible {
 	outline: 0.15em solid #4f613c;
 	outline-offset: 0.2em;
 }
 
-#cookieDialog::backdrop {
+.cookie-dialog::backdrop {
 	background-color: rgba(0, 0, 0, 0.3);
 }
-
 
 body.boeken {
 	margin: 0;
