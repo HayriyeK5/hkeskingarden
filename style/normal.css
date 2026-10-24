@@ -42,16 +42,27 @@ body:has([value="winter"]:checked) {
 form {
 	display: flex;
 	justify-content: center;
-	flex-wrap: wrap;
-	gap: 1.2em;
-	margin-bottom: 2em;
-}
+	gap: 1.5em;
 
+	width: fit-content;
+	margin: 1em auto;
+	padding: 0.7em 1.5em;
+
+	background-color: rgba(255, 248, 250, 0.65);
+
+	border: 0.08em solid rgba(143, 95, 109, 0.25);
+	border-radius: 2em;
+
+	box-shadow:
+		0 0.2em 0.5em rgba(0, 0, 0, 0.12),
+		0 0 0.5em rgba(255, 255, 255, 0.4);
+}
 form label {
-	font-family: "Tangerine", cursive;
-	font-size: 1.8em;
 	color: #4f613c;
-	text-shadow: 0 0 0.15em white;
+	font-size: 1.3em;
+	cursor: pointer;
+
+	text-shadow: 0 0 0.15em rgba(255, 255, 255, 0.9);
 }
 
 form label:hover {
