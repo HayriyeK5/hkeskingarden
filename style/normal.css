@@ -42,36 +42,49 @@ body:has([value="winter"]:checked) {
 form {
 	display: flex;
 	justify-content: center;
-	gap: 1.5em;
+	gap: 1.2em;
 
 	width: fit-content;
 	margin: 1em auto;
-	padding: 0.7em 1.5em;
+	padding: 0.3em 0.8em;
 
-	background-color: rgba(255, 248, 250, 0.65);
+	background-color: rgba(255, 248, 250, 0.18);
 
-	border: 0.08em solid rgba(143, 95, 109, 0.25);
-	border-radius: 2em;
+	border: none;
+	border-radius: 1.5em;
 
 	box-shadow:
-		0 0.2em 0.5em rgba(0, 0, 0, 0.12),
-		0 0 0.5em rgba(255, 255, 255, 0.4);
+		0 0.15em 0.4em rgba(143, 95, 109, 0.08);
 }
+
 form label {
-	color: #4f613c;
-	font-size: 1.3em;
+	font-family: "Tangerine", cursive;
+	font-size: 1.45em;
+	font-weight: 700;
+
+	color: #785866;
+
 	cursor: pointer;
 
-	text-shadow: 0 0 0.15em rgba(255, 255, 255, 0.9);
+	text-shadow:
+		0 0 0.12em rgba(255, 255, 255, 0.9);
+
+	transition: 0.3s;
 }
 
 form label:hover {
-	color: #6f8454;
+	color: #5f7348;
+
+	text-shadow:
+		0 0 0.18em white,
+		0 0 0.3em rgba(95, 115, 72, 0.25);
+
+	transform: scale(1.04);
 }
 
 form input:focus-visible {
-	outline: 0.15em solid #5f7348;
-	outline-offset: 0.2em;
+	outline: 0.15em solid #8f5f6d;
+	outline-offset: 0.15em;
 }
 
 main {
