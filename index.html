@@ -65,13 +65,51 @@
 
 	</main>
 
-     <button
+    <button
 	class="open-cookie"
 	type="button"
 	aria-label="Seizoenvoorkeur openen"
-     >
+>
 	<img src="assets/cookie-bloem.png" alt="">
-    </button>
+
+
+
+   </button>
+
+    <dialog class="cookie-dialog" aria-labelledby="cookieTitel">
+
+	<h2 id="cookieTitel">
+		Jouw favoriete seizoen
+	</h2>
+
+	<p>
+		Wil je dat deze website jouw favoriete seizoen onthoudt?
+	</p>
+
+	<details>
+		<summary>Waarom vragen we dit?</summary>
+
+		<p>
+			Als je hiervoor kiest, gebruiken we jouw favoriete seizoen
+			om de website persoonlijker te maken.
+		</p>
+	</details>
+
+	<button
+		class="cookie-ja"
+		type="button"
+	>
+		Ja
+	</button>
+
+	<button
+		class="cookie-nee"
+		type="button"
+	>
+		Nee
+	</button>
+
+    </dialog>
 
 
 	<footer>
