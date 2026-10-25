@@ -685,22 +685,21 @@ footer {
 			margin-bottom: 0;
 		}
 
-
-		button {
+        button {
 			margin-top: 1.5em;
-			padding: 0.6em 1.4em;
+			padding: 0.7em 1.5em;
 
-			background-color: rgba(247, 233, 237, 0.9);
-			color: #8f5f6d;
+			background-color: #8f5f6d;
+			color: white;
 
-			border: 0.1em solid #8f5f6d;
-			border-radius: 1em;
+			border: none;
+			border-radius: 0.8em;
 
 			font-size: 1em;
 			font-weight: 700;
 
 			box-shadow:
-				0 0.2em 0.5em rgba(0, 0, 0, 0.15);
+				0 0.2em 0.4em rgba(0, 0, 0, 0.2);
 
 			cursor: pointer;
 
@@ -708,26 +707,23 @@ footer {
 
 
 			&:hover {
-				background-color: #ead4da;
+				background-color: #744a58;
 
 				box-shadow:
-					0 0.3em 0.7em rgba(0, 0, 0, 0.18),
-					0 0 0.4em rgba(143, 95, 109, 0.3);
+					0 0.3em 0.6em rgba(0, 0, 0, 0.25);
 
 				transform: scale(1.05);
 			}
 
 
 			&:focus-visible {
-				outline: 0.15em solid #8f5f6d;
+				outline: 0.15em solid #4f613c;
 				outline-offset: 0.2em;
 			}
 		}
+		
+	
 
-
-		&::backdrop {
-			background-color: rgba(0, 0, 0, 0.4);
-		}
 	}
 }
 /* album */
