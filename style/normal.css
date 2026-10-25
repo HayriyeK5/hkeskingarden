@@ -558,7 +558,6 @@ footer {
 
 	header {
 		text-align: center;
-
 		margin-bottom: 4em;
 
 
@@ -573,7 +572,6 @@ footer {
 			padding: 0;
 
 			background: none;
-
 			border: none;
 			border-radius: 0;
 
@@ -588,7 +586,6 @@ footer {
 		gap: 3em;
 
 		max-width: 75em;
-
 		margin: 0 auto;
 
 
@@ -596,12 +593,10 @@ footer {
 
 			button {
 				display: block;
-
 				margin: 0 auto;
 				padding: 0;
 
 				background: none;
-
 				border: none;
 				border-radius: 0.8em;
 
@@ -655,9 +650,7 @@ footer {
 				margin-bottom: 0;
 
 				background: none;
-
 				border: none;
-
 				padding: 0;
 
 				text-align: center;
@@ -668,7 +661,6 @@ footer {
 
 	dialog {
 		max-width: 25em;
-
 		padding: 2em;
 
 		border: 0.1em solid #8f5f6d;
@@ -690,7 +682,6 @@ footer {
 
 		p {
 			line-height: 1.5;
-
 			margin-bottom: 0;
 		}
 
@@ -731,7 +722,7 @@ footer {
 				outline: 0.15em solid #8f5f6d;
 				outline-offset: 0.2em;
 			}
-
+		}
 
 
 		&::backdrop {
@@ -739,9 +730,6 @@ footer {
 		}
 	}
 }
-
-
-
 /* album */
 
 .album {
@@ -1028,7 +1016,7 @@ footer {
 
 	.boeken {
 		main {
-			grid-template-columns: repeat(3, 1fr);
+			grid-template-columns: repeat(4, 1fr);
 		}
 	}
 
