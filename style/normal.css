@@ -697,21 +697,33 @@ footer {
 
 		button {
 			margin-top: 1.5em;
-
 			padding: 0.6em 1.4em;
 
-			background-color: #f7e9ed;
-
+			background-color: rgba(247, 233, 237, 0.9);
 			color: #8f5f6d;
 
 			border: 0.1em solid #8f5f6d;
 			border-radius: 1em;
 
+			font-size: 1em;
+			font-weight: 700;
+
+			box-shadow:
+				0 0.2em 0.5em rgba(0, 0, 0, 0.15);
+
 			cursor: pointer;
+
+			transition: 0.3s;
 
 
 			&:hover {
 				background-color: #ead4da;
+
+				box-shadow:
+					0 0.3em 0.7em rgba(0, 0, 0, 0.18),
+					0 0 0.4em rgba(143, 95, 109, 0.3);
+
+				transform: scale(1.05);
 			}
 
 
@@ -719,7 +731,7 @@ footer {
 				outline: 0.15em solid #8f5f6d;
 				outline-offset: 0.2em;
 			}
-		}
+
 
 
 		&::backdrop {
