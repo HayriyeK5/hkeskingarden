@@ -14,6 +14,25 @@ Na de feedback heb ik een aantal dingen aangepast aan mijn website:
 - De  Sluiten-knoppen in de boekdialogs hebben een eigen class en zien er nu duidelijk uit als knoppen.
 - Ik heb extra gelet op toegankelijkheid met focus-visible, alt-teksten, aria-labels en toetsenbordnavigatie.
 
+
+![Update na feedback](readme-images/update14.png)
+
+
+![Update na feedback](readme-images/update15.png)
+
+
+![Update na feedback](readme-images/update16.png)
+
+
+![Update na feedback](readme-images/update17.png)
+
+
+
+
+
+
+
+
 ## Retrospect sprint 3
 ![Retro metafoor](readme-images/retro3.jpeg)
 
