@@ -574,8 +574,6 @@ footer {
 			background: none;
 			border: none;
 			border-radius: 0;
-
-			backdrop-filter: none;
 		}
 	}
 
@@ -649,10 +647,6 @@ footer {
 				margin-top: 0.4em;
 				margin-bottom: 0;
 
-				background: none;
-				border: none;
-				padding: 0;
-
 				text-align: center;
 			}
 		}
@@ -685,7 +679,8 @@ footer {
 			margin-bottom: 0;
 		}
 
-        button {
+
+		button {
 			margin-top: 1.5em;
 			padding: 0.7em 1.5em;
 
@@ -721,9 +716,31 @@ footer {
 				outline-offset: 0.2em;
 			}
 		}
-		
-	
 
+
+		&::backdrop {
+			background-color: rgba(0, 0, 0, 0.4);
+		}
+	}
+}
+
+
+@media (min-width: 40em) {
+
+	.boeken {
+		main {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+}
+
+
+@media (min-width: 60em) {
+
+	.boeken {
+		main {
+			grid-template-columns: repeat(3, 1fr);
+		}
 	}
 }
 /* album */
