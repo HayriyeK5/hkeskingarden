@@ -618,6 +618,9 @@ body.album {
     text-align: center;
     margin: 2em auto 3em;
     padding: 1em;
+	background: none;
+	box-shadow: none;
+	border-radius: 0;
 }
 
 .album header h1 {
@@ -626,7 +629,10 @@ body.album {
     font-weight: 400;
     color: #8f5f6d;
     margin: 0 0 0.2em;
+	background: none;
+	box-shadow: none;
 }
+
 
 
 .album header p {
