@@ -203,6 +203,10 @@ Bij Mijn Album heb ik mijn eigen foto’s toegevoegd en de pagina persoonlijker 
 
 ![Update na feedback](readme-images/update6.png)
 
+backgrounnd image:https://nl.pinterest.com/pin/723883340147648553/ 
+
+
+
 
 ![Update na feedback](readme-images/update2.png)
 
