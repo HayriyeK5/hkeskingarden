@@ -114,16 +114,17 @@ body {
 
 
 		label {
-			font-family: Georgia, serif;
-			font-size: 1em;
-			font-weight: 600;
+			font-family: "Tangerine", cursive;
+            font-size: 1.8em;
+             font-weight: 700;
+    
+			 color: #4f3f45;
 
-			color: #594b50;
-
+             text-shadow:
+	        0 0 0.08em white,
+	        0 0 0.2em rgba(143, 95, 109, 0.3);
 			cursor: pointer;
 
-			text-shadow:
-				0 0 0.15em rgba(255, 255, 255, 0.95);
 
 			transition: 0.3s;
 
