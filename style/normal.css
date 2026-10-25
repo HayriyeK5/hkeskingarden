@@ -58,11 +58,11 @@ form {
 }
 
 form label {
-	font-family: "Tangerine", cursive;
-	font-size: 1.45em;
+	font-family: Arial, sans-serif;
+	font-size: 1.05em;
 	font-weight: 700;
 
-	color: #785866;
+	color: #2f2f2f;
 
 	cursor: pointer;
 
@@ -71,7 +71,6 @@ form label {
 
 	transition: 0.3s;
 }
-
 form label:hover {
 	color: #5f7348;
 
