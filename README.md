@@ -1,4 +1,59 @@
 
+## Feedback verwerkt
+
+Na de feedback heb ik een aantal dingen aangepast aan mijn website:
+
+- De cookie-popup opent niet meer automatisch. Ik heb een afbeelding als knop toegevoegd waarmee de gebruiker de dialog zelf kan openen.
+- De cookie-knop is responsive gemaakt, zodat hij op mobiel kleiner is en niet over de titel heen valt.
+- De onderdelen in de cookie-dialog zijn duidelijker klikbaar gemaakt met schaduw, hover en focus.
+- De seizoenkeuze is beter leesbaar gemaakt en heeft een duidelijkere achtergrond.
+- Op de boeken- en albumpagina heb ik een Terug link toegevoegd.
+- De roze achtergrond achter de titel van het album is verwijderd.
+- Ik heb CSS nesting gebruikt om de code overzichtelijker te maken.
+- Voor styling gebruik ik meer classes in plaats van IDselectors.
+- De  Sluiten-knoppen in de boekdialogs hebben een eigen class en zien er nu duidelijk uit als knoppen.
+- Ik heb extra gelet op toegankelijkheid met focus-visible, alt-teksten, aria-labels en toetsenbordnavigatie.
+
+## Retrospect sprint 3
+![Retro metafoor](readme-images/retro3.jpeg)
+
+ Stap voor stap toegankelijker
+
+De afgelopen zes weken heb ik veel aangepast aan mijn website. In het begin lette ik vooral op het uiterlijk, maar tijdens de sprint ben ik ook meer gaan letten op duidelijkheid en toegankelijkheid.
+
+Door feedback van docenten en klasgenoten heb ik verschillende onderdelen opnieuw bekeken en aangepast. Soms werkte iets niet meteen goed of zag het er anders uit dan ik wilde. Daardoor heb ik vaker moeten testen en opnieuw proberen.
+
+Ik heb deze sprint vooral geleerd dat feedback belangrijk is en dat een ontwerp tijdens het proces nog veel kan veranderen.
+
+Metafoor
+
+Mijn metafoor is een vis die steeds meer water krijgt.
+
+Voor mij staat het water voor de ruimte om verder te leren. Aan het begin van de sprint wist ik bij sommige onderdelen nog niet goed hoe ik ze moest aanpakken. Door feedback, testen en opnieuw proberen kreeg ik steeds meer overzicht.
+
+Daarom past deze metafoor goed bij mijn proces: stap voor stap kreeg ik meer ruimte om verder te werken.
+
+## Competenties
+
+ Ontwerpen
+Ik heb deze sprint meer gekeken naar wat duidelijk is voor de gebruiker en niet alleen naar wat ik zelf mooi vind. Feedback heeft mij geholpen om mijn ontwerp verder aan te passen.
+
+Maken
+Ik heb verder geoefend met HTML, CSS en JavaScript. Tijdens het maken liep ik soms tegen problemen aan, maar door opnieuw te proberen kwam ik meestal verder.
+
+ Gebruiker begrijpen
+Ik heb meer aandacht besteed aan toegankelijkheid en gebruiksgemak. Daardoor ben ik beter gaan letten op hoe iemand mijn website gebruikt.
+
+ Itereren
+Ik heb deze sprint vaak dingen aangepast na feedback. Sommige onderdelen heb ik meerdere keren veranderd voordat het beter werkte of beter bij mijn ontwerp paste.
+
+ Organiseren
+Ik heb geprobeerd mijn code en bestanden overzichtelijker te maken. Daardoor kon ik makkelijker terugvinden waar ik iets moest aanpassen.
+
+ Professioneel werken
+Ik heb feedback van anderen gebruikt om mijn werk verder te verbeteren. Ook heb ik geprobeerd beter uit te leggen waarom ik bepaalde keuzes heb gemaakt.
+
+
 ## Donderdag 22 Oktober
 Wat heb ik met de feedback gedaan?
 
