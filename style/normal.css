@@ -98,35 +98,30 @@ body {
 		justify-content: center;
 		flex-wrap: wrap;
 		gap: 1em;
-
 		width: fit-content;
-
 		margin: 1em auto;
 		padding: 0.5em 1em;
-
 		background-color: rgba(255, 248, 250, 0.28);
-
 		border: none;
 		border-radius: 1.5em;
-
 		box-shadow:
 			0 0.15em 0.4em rgba(0, 0, 0, 0.1);
 
 
 		label {
-			font-family: Georgia, serif;
-            font-size: 1.8em;
-             font-weight: 700;
-    
-			 color: #4f3f45;
+				font-family: Georgia, serif;
+	
+				font-size: 0.85em;
 
-             text-shadow:
-	        0 0 0.08em white,
-	        0 0 0.2em rgba(143, 95, 109, 0.3);
-			cursor: pointer;
+				font-weight: 600;
+				color: #3f3639;
+				cursor: pointer;
+				text-shadow:
 
+		      0 0 0.1em white;
 
-			transition: 0.3s;
+	
+		transition: 0.3s;
 
 
 			&:hover {
@@ -207,27 +202,21 @@ body {
 
 					margin: 0;
 					padding-bottom: 0.1em;
-
 					border-bottom: 0.05em solid #8f5f6d;
-
 					text-shadow:
 						0 0 0.12em rgba(255, 255, 255, 0.8),
 						0 0 0.25em rgba(143, 95, 109, 0.25);
-
 					transition: 0.3s;
 				}
 
 
 				&:hover h2 {
 					color: #744a58;
-
 					border-bottom-color: #744a58;
-
 					text-shadow:
 						0 0 0.15em white,
 						0 0 0.35em rgba(143, 95, 109, 0.55),
 						0 0 0.6em rgba(143, 95, 109, 0.35);
-
 					transform: scale(1.04);
 				}
 
@@ -419,29 +408,19 @@ footer {
 
 		summary {
 			display: inline-block;
-
 			color: #5f7348;
-
 			font-size: 1.1em;
-
 			padding: 0.5em 1em;
 			margin: 0;
-
 			background-color: rgba(255, 248, 230, 0.55);
-
 			border: 0.08em solid rgba(95, 115, 72, 0.3);
 			border-radius: 0.8em;
-
 			text-align: center;
 			list-style: none;
-
 			box-shadow:
 				0 0.2em 0.5em rgba(0, 0, 0, 0.12);
-
 			cursor: pointer;
-
 			transition: 0.3s;
-
 
 			&::-webkit-details-marker {
 				display: none;
@@ -565,12 +544,9 @@ footer {
 			font-family: "Tangerine", cursive;
 			font-size: 4em;
 			font-weight: 400;
-
 			color: #8f5f6d;
-
 			margin: 0.3em auto;
 			padding: 0;
-
 			background: none;
 			border: none;
 			border-radius: 0;
@@ -641,12 +617,9 @@ footer {
 				font-family: "Tangerine", cursive;
 				font-size: 2.3em;
 				font-weight: 400;
-
 				color: #4f3f45;
-
 				margin-top: 0.4em;
 				margin-bottom: 0;
-
 				text-align: center;
 			}
 		}
@@ -656,10 +629,8 @@ footer {
 	dialog {
 		max-width: 25em;
 		padding: 2em;
-
 		border: 0.1em solid #8f5f6d;
 		border-radius: 1em;
-
 		text-align: center;
 
 
@@ -667,9 +638,7 @@ footer {
 			font-family: "Tangerine", cursive;
 			font-size: 3em;
 			font-weight: 400;
-
 			color: #8f5f6d;
-
 			margin-top: 0;
 		}
 
@@ -682,24 +651,17 @@ footer {
 
 		.sluit-knop {
 			display: inline-block;
-
 			margin-top: 1.5em;
 			padding: 0.7em 1.5em;
-
 			background-color: #8f5f6d;
 			color: white;
-
 			border: none;
 			border-radius: 0.8em;
-
 			font-size: 1em;
 			font-weight: 700;
-
 			box-shadow:
 				0 0.2em 0.4em rgba(0, 0, 0, 0.2);
-
 			cursor: pointer;
-
 			transition: 0.3s;
 
 
@@ -759,14 +721,10 @@ footer {
 
 	header {
 		text-align: center;
-
 		margin: 2em auto 3em;
 		padding: 1em;
-
 		background: none;
-
 		box-shadow: none;
-
 		border-radius: 0;
 
 
@@ -774,16 +732,11 @@ footer {
 			font-family: "Tangerine", cursive;
 			font-size: 4rem;
 			font-weight: 400;
-
 			color: #8f5f6d;
-
 			margin: 0 0 0.2em;
 			padding: 0;
-
 			background: none;
-
 			box-shadow: none;
-
 			border: none;
 			border-radius: 0;
 		}
@@ -791,24 +744,16 @@ footer {
 
 		p {
 			max-width: 40em;
-
 			margin: 1.5em auto 0;
 			padding: 0.5em 1.5em;
-
 			border-left: 0.12em solid #b79b9d;
-
 			text-align: left;
-
 			font-family: Georgia, serif;
 			font-size: 1em;
 			font-style: italic;
-
 			line-height: 1.8;
-
 			color: #594b50;
-
 			background: none;
-
 			backdrop-filter: none;
 			box-shadow: none;
 		}
@@ -819,9 +764,7 @@ footer {
 		display: grid;
 		grid-template-columns: 1fr;
 		gap: 1.5em;
-
 		max-width: 59em;
-
 		margin: 2em auto 4em;
 		padding: 1em;
 
@@ -829,16 +772,11 @@ footer {
 		img {
 			width: 100%;
 			height: 26em;
-
 			object-fit: cover;
 			box-sizing: border-box;
-
 			display: block;
-
 			background-color: white;
-
 			padding: 0.6em 0.6em 1.8em;
-
 			box-shadow:
 				0 0.25em 0.75em rgba(0, 0, 0, 0.12);
 		}
@@ -856,7 +794,6 @@ footer {
 
 	main {
 		max-width: 68em;
-
 		margin: 0 auto;
 		padding: 3em 2em;
 	}
@@ -867,30 +804,23 @@ footer {
 
 		font-family: "Tangerine", cursive;
 		font-size: 4em;
-
 		color: #8f5f6d;
-
 		margin-bottom: 0.2em;
 	}
 
 
 	.intro {
 		text-align: center;
-
 		margin-bottom: 4em;
 	}
 
 
 	section {
 		margin-bottom: 5em;
-
-
 		p {
 			margin-bottom: 2em;
 		}
 	}
-
-
 	h2 {
 		color: #8f5f6d;
 
@@ -902,49 +832,37 @@ footer {
 		display: grid;
 		grid-template-columns: 1fr;
 		gap: 2em;
-
-
 		article {
 			text-align: center;
-
 			padding: 1em;
-
 			background-color: rgba(255, 255, 255, 0.65);
-
 			border-radius: 0.8em;
 
 
 			img {
 				width: 100%;
 				height: 14em;
-
 				object-fit: contain;
-
 				border-radius: 0.5em;
 			}
 
 
 			h3 {
 				font-size: 1.1em;
-
 				margin: 1em 0 0.5em;
-
 				color: #765664;
 			}
 
 
 			p {
 				font-size: 0.9em;
-
 				margin-bottom: 0.5em;
 			}
 
 
 			a {
 				display: inline-block;
-
 				color: #8f5f6d;
-
 				font-size: 0.9em;
 				text-decoration: underline;
 
@@ -979,10 +897,8 @@ footer {
 
 	.open-cookie {
 		position: absolute;
-
 		top: 7em;
 		left: 2em;
-
 		margin: 0;
 
 
