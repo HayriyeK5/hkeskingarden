@@ -1,5 +1,50 @@
 
+
+
+## 26 Oktober Expo
+
+
+
+
+
+
+
+
+
+
+## Zelfreflectie expo
+
+Tijdens de expo kreeg ik vooral positieve feedback over de verschillende seizoenen, de persoonlijke stijl en de toegankelijkheid van mijn website. Ook werd gezegd dat de website goed werkt met Tab en screenreader en dat de cookie-uitleg duidelijk is.
+
+Ik kreeg als verbeterpunt dat sommige teksten bij bepaalde thema's nog niet overal even goed leesbaar zijn. Hier heb ik tijdens het proces al meerdere keren aan gewerkt door kleuren en achtergronden aan te passen. Als ik meer tijd had, zou ik dit nog verder testen en vooral het contrast per seizoen verbeteren.
+
+Over het algemeen ben ik tevreden dat mijn concept en de verschillende seizoenen duidelijk terugkwamen in de feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Feedback verwerkt
+
 
 Na de feedback heb ik een aantal dingen aangepast aan mijn website:
 
