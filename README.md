@@ -4,27 +4,40 @@
 ## 26 Oktober Expo
 
 
+Tijdens de expo heb ik samen met Eva mijn website bekeken en het laatste Webby-formulier ingevuld.
+
+We hebben gekeken naar de responsive versie, interactie, toegankelijkheid, privacy, vormgeving en het algemene gebruik van de website. Eva heeft de website ook getest met toetsenbord en screenreader.
+
+We kwamen tot de conclusie dat de website op verschillende schermgroottes goed werkt, dat de interactieve onderdelen duidelijk zijn en dat de structuur goed te volgen is.
 
 
 
+![Expo ](readme-images/26oktober1.jpeg)
 
 
+Ook hebben we samen mijn Learning Log gecontroleerd. We hebben gekeken of de sprints, schetsen, visual-thinking opdrachten, feedbackmomenten en bronnen duidelijk waren opgenomen.
+
+
+
+![Expo ](readme-images/26oktober2.jpeg)
 
 
 
 ## Zelfreflectie expo
 
-Tijdens de expo kreeg ik vooral positieve feedback over de verschillende seizoenen, de persoonlijke stijl en de toegankelijkheid van mijn website. Ook werd gezegd dat de website goed werkt met Tab en screenreader en dat de cookie-uitleg duidelijk is.
+Tijdens de expo kreeg ik vooral positieve feedback over de verschillende seizoenen, de persoonlijke stijl en de toegankelijkheid van mijn website. Meerdere mensen vonden dat de thema’s goed bij elkaar passen en dat de website goed werkt met Tab en screenreader. Ook werd de cookie-uitleg duidelijk gevonden.
 
-Ik kreeg als verbeterpunt dat sommige teksten bij bepaalde thema's nog niet overal even goed leesbaar zijn. Hier heb ik tijdens het proces al meerdere keren aan gewerkt door kleuren en achtergronden aan te passen. Als ik meer tijd had, zou ik dit nog verder testen en vooral het contrast per seizoen verbeteren.
+Als verbeterpunt kreeg ik dat sommige teksten bij bepaalde thema’s nog niet altijd even goed leesbaar waren. Daarom heb ik na de expo de seizoenkeuze nog aangepast. Ik heb het lettertype veranderd, de tekst kleiner gemaakt en het contrast verbeterd.
 
-Over het algemeen ben ik tevreden dat mijn concept en de verschillende seizoenen duidelijk terugkwamen in de feedback.
+Als ik terugkijk op het hele proces, was mijn idee in het begin nog vrij vaag en breed. Door te schetsen, feedback te krijgen en verschillende dingen uit te proberen, kreeg ik uiteindelijk een concreter concept met Onder de Wilg, de vier seizoenen, mijn boeken en eigen foto’s. Tijdens de drie sprints is de website daardoor steeds meer één geheel geworden.
 
-
-
-
+Ik heb tijdens het proces veel aangepast en opnieuw getest. Daardoor is het eindresultaat duidelijker, persoonlijker en toegankelijker geworden.
 
 
+
+![Expo feedback](readme-images/26oktober.jpeg)
+
+![Update na feedback](readme-images/update14.png)
 
 
 
@@ -299,6 +312,27 @@ Het laatste gedeelte, waar de tekst steeds kleiner wordt en langzaam verdwijnt, 
 Ook gaf hij aan dat sommige losse zinnen met “En” begonnen. Grammaticaal was dit niet altijd logisch, dus deze zinnen moest ik anders indelen of herschrijven.
 
 Met deze feedback ben ik daarna verder gegaan met mijn ontwerp.
+
+
+# Deep Dive: Variabele fonts
+
+
+![oefening in HTML en CSS](readme-images/oefening1.png)
+
+
+![oefening in HTML en CSS](readme-images/oefening2.png)
+ 
+
+![oefening in HTML en CSS](readme-images/oefening3.png)
+
+
+![oefening in HTML en CSS](readme-images/oefening4.png)
+
+
+![oefening in HTML en CSS](readme-images/oefening5.png)
+
+
+
 ## 7 oktober
 
 ![Uitwerking in HTML en CSS](readme-images/7oktober.jpg)
