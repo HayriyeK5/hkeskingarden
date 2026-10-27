@@ -25,13 +25,13 @@ Ook hebben we samen mijn Learning Log gecontroleerd. We hebben gekeken of de spr
 
 ## Zelfreflectie expo
 
-Tijdens de expo kreeg ik vooral positieve feedback over de verschillende seizoenen, de persoonlijke stijl en de toegankelijkheid van mijn website. Meerdere mensen vonden dat de thema’s goed bij elkaar passen en dat de website goed werkt met Tab en screenreader. Ook werd de cookie-uitleg duidelijk gevonden.
+Tijdens de expo kreeg ik vooral positieve feedback van mijn klasgenoten over de verschillende seizoenen, de persoonlijke stijl en de toegankelijkheid van mijn website. Ze vonden dat de thema’s goed bij elkaar passen en dat de website goed werkt met Tab en screenreader. Ook vonden ze de uitleg bij de cookie duidelijk.
 
 Als verbeterpunt kreeg ik dat sommige teksten bij bepaalde thema’s nog niet altijd even goed leesbaar waren. Daarom heb ik na de expo de seizoenkeuze nog aangepast. Ik heb het lettertype veranderd, de tekst kleiner gemaakt en het contrast verbeterd.
 
-Als ik terugkijk op het hele proces, was mijn idee in het begin nog vrij vaag en breed. Door te schetsen, feedback te krijgen en verschillende dingen uit te proberen, kreeg ik uiteindelijk een concreter concept met Onder de Wilg, de vier seizoenen, mijn boeken en eigen foto’s. Tijdens de drie sprints is de website daardoor steeds meer één geheel geworden.
+Als ik terugkijk op het hele proces, was mijn idee in het begin nog vrij breed en niet helemaal duidelijk. Door te schetsen, feedback te krijgen en verschillende dingen uit te proberen, kreeg ik uiteindelijk een concreter concept met Onder de Wilg, de vier seizoenen, mijn boeken en eigen foto’s. Tijdens de drie sprints is de website daardoor steeds meer één geheel geworden.
 
-Ik heb tijdens het proces veel aangepast en opnieuw getest. Daardoor is het eindresultaat duidelijker, persoonlijker en toegankelijker geworden.
+Tijdens het proces heb ik veel aangepast en opnieuw getest. Daardoor is het eindresultaat duidelijker, persoonlijker en toegankelijker geworden.
 
 
 
